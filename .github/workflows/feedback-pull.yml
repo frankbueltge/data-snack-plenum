@@ -1,0 +1,41 @@
+# Pulls Frank's rejections (with reasons) from the site's review queue back into
+# feedback/ — the plenum reads them at every Orient. Daily; harmless when idle.
+name: Feedback pull
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 06:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feedback-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull rejections
+        env:
+          BACKEND_TOKEN: ${{ secrets.BACKEND_TOKEN }}
+        run: python3 tools/bridge/feedback_pull.py --repo-root . --token "$BACKEND_TOKEN"
+
+      - name: Commit feedback
+        run: |
+          git config user.name "Plenum Bridge"
+          git config user.email "plenum-bridge@users.noreply.github.com"
+          git add feedback/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git pull --rebase origin main
+            git commit -m "bridge: feedback pull"
+            git push origin main
+          fi

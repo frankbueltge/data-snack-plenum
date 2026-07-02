@@ -1,0 +1,70 @@
+# Delivers gate-passed queue files to the site's review queue. Runs after auto-land
+# (workflow_run makes the ordering explicit — a queue file only exists on main once
+# auto-land merged the session branch). Sessions themselves have no egress; this
+# bridge is the only path from queue/ to the site, and it only ever creates PENDING
+# drafts — publishing stays a human click behind the site's dry-run gate.
+name: Enqueue bridge
+
+on:
+  workflow_run:
+    workflows: ['Auto-land plenum']
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: enqueue-bridge
+  cancel-in-progress: false
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Deliver queue files
+        id: deliver
+        env:
+          BACKEND_TOKEN: ${{ secrets.BACKEND_TOKEN }}
+        run: |
+          set +e
+          python3 tools/bridge/enqueue.py --repo-root . --token "$BACKEND_TOKEN" | tee /tmp/deliver.log
+          code=${PIPESTATUS[0]}
+          alarms=$(grep -o 'ALARM_FILES=.*' /tmp/deliver.log | cut -d= -f2)
+          echo "alarms=$alarms" >> "$GITHUB_OUTPUT"
+          # exit 2 = delivery failures this run; the ledger keeps them retryable.
+          # Don't fail the job (commit step must still run) — the alarm issue covers visibility.
+          exit 0
+
+      - name: Commit ledger + veto feedback
+        run: |
+          git config user.name "Plenum Bridge"
+          git config user.email "plenum-bridge@users.noreply.github.com"
+          git add queue/.enqueued.json feedback/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git pull --rebase origin main
+            git commit -m "bridge: delivery ledger update"
+            git push origin main
+          fi
+
+      - name: Alarm on persistent failures
+        if: ${{ steps.deliver.outputs.alarms != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Enqueue bridge: persistent delivery failures"
+          body="These queue files failed delivery 3+ times: ${{ steps.deliver.outputs.alarms }}. Check BACKEND_TOKEN secret, site availability, and the ledger queue/.enqueued.json."
+          existing=$(gh issue list --state open --search "$title" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
