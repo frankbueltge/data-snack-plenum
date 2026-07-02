@@ -1,0 +1,57 @@
+# Lands the weekly plenum branches (plenum/*) automatically onto main —
+# so nobody has to merge by hand. Runs on push to a plenum/* branch AND, as a
+# safety net, daily shortly after the routine window (in case the push trigger fails).
+name: Auto-land plenum
+
+on:
+  push:
+    branches: ['plenum/**']
+  schedule:
+    - cron: '0 2 * * *'   # 02:00 UTC, ~1h after the weekly routine window
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-land
+  cancel-in-progress: false
+
+jobs:
+  land:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Merge plenum/* branches into main
+        id: land
+        run: |
+          git config user.name "Plenum"
+          git config user.email "plenum@users.noreply.github.com"
+          git fetch origin '+refs/heads/plenum/*:refs/remotes/origin/plenum/*' || true
+          landed=0
+          for b in $(git branch -r | sed 's/^[* ] *//' | grep '^origin/plenum/'); do
+            name="${b#origin/}"
+            echo "::group::landing $name"
+            if git merge --no-edit "$b"; then
+              if git push origin main && git push origin --delete "$name"; then
+                landed=$((landed+1))
+              else
+                echo "push failed for $name"
+              fi
+            else
+              echo "merge conflict on $name — skipping"
+              git merge --abort || true
+            fi
+            echo "::endgroup::"
+          done
+          echo "landed $landed branch(es)"
+          echo "landed=$landed" >> "$GITHUB_OUTPUT"
+
+      # NOTE (deferred): when a presentation namespace exists on the site
+      # (a plenum-integrate workflow on frankbueltge.de), re-add the cross-repo
+      # repository_dispatch step here (see field-research auto-land for the pattern,
+      # secret SITE_DISPATCH_TOKEN). Until then there is nothing to dispatch to —
+      # the enqueue bridge runs in THIS repo via workflow_run on this workflow.

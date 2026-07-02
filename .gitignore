@@ -1,0 +1,5 @@
+# derived memory index — rebuilds on demand, never committed
+memory/index.jsonl
+__pycache__/
+*.pyc
+.DS_Store
