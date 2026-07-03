@@ -14,7 +14,7 @@
 
 | Slug | Phase (proposed → building → matured/discarded) | Suited host | One-liner |
 |---|---|---|---|
-| the-auction-you-never-entered | building (in drafts/) | key | RTB: your data broadcast to hundreds of companies per page load — you are the lot, not the bidder |
+| the-auction-you-never-entered | **matured (in works/)** — graduated S2 after full gate (Verifier PASS, Voice PASS) | key | RTB: your data broadcast to hundreds of companies per page load — you are the lot, not the bidder |
 
 ## Live threads
 
@@ -38,3 +38,4 @@
 | # | Date | Agenda | Hosts convened | Queued | Consolidation? |
 |---|---|---|---|---|---|
 | 1 | 2026-07-03 | naming + 3 Appetizer slots + 1 concept | Rook, Key, Bite | 3 | no (due S2–S3) |
+| 2 | 2026-07-03 | concept maturation only (weekly Appetizer target already met in S1) | Key | 0 | no (due S3) |
