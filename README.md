@@ -20,8 +20,10 @@ queue. Nothing publishes without human approval.
 - Sessions run as a scheduled cloud routine with sub-agent dispatch and web research; the
   session environment has **no general HTTP egress** (delivery is therefore file-based via
   the bridge workflows in `.github/workflows/`).
-- Egress probe (can a session POST to the site directly?): **pending** — to be run in the
-  first supervised session; result to be recorded here.
+- Egress probe (can a session POST to the site directly?): **run 2026-07-03** — `curl` to
+  `https://data-snack.com/api/social/enqueue` failed at the network layer (curl exit 56,
+  connection reset, no HTTP status). Confirms: sessions have no direct egress to the site;
+  delivery stays file-based via the bridge workflows.
 - The bridge targets the site's **direct Cloud Run URL**, not data-snack.com: the
   Cloudflare layer in front of the domain drops auth headers/cookies on `/api/*`
   (verified 2026-07-03). `BACKEND_TOKEN` is live in the site's runtime env and as this
