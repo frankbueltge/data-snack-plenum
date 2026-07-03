@@ -25,7 +25,10 @@ jobs:
       - name: Pull rejections
         env:
           BACKEND_TOKEN: ${{ secrets.BACKEND_TOKEN }}
-        run: python3 tools/bridge/feedback_pull.py --repo-root . --token "$BACKEND_TOKEN"
+        # Direct Cloud Run URL — see enqueue-bridge.yml for why not data-snack.com.
+        run: >
+          python3 tools/bridge/feedback_pull.py --repo-root . --token "$BACKEND_TOKEN"
+          --base-url https://data-snack-web-pkj46ucxaq-ey.a.run.app
 
       - name: Commit feedback
         run: |

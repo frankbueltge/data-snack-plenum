@@ -34,7 +34,11 @@ jobs:
           BACKEND_TOKEN: ${{ secrets.BACKEND_TOKEN }}
         run: |
           set +e
-          python3 tools/bridge/enqueue.py --repo-root . --token "$BACKEND_TOKEN" | tee /tmp/deliver.log
+          # Direct Cloud Run URL: the Cloudflare layer in front of data-snack.com
+          # drops auth headers/cookies on /api/* (verified 2026-07-03) — the
+          # service URL is stable and authenticates correctly.
+          python3 tools/bridge/enqueue.py --repo-root . --token "$BACKEND_TOKEN" \
+            --base-url https://data-snack-web-pkj46ucxaq-ey.a.run.app | tee /tmp/deliver.log
           code=${PIPESTATUS[0]}
           alarms=$(grep -o 'ALARM_FILES=.*' /tmp/deliver.log | cut -d= -f2)
           echo "alarms=$alarms" >> "$GITHUB_OUTPUT"

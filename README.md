@@ -22,5 +22,9 @@ queue. Nothing publishes without human approval.
   the bridge workflows in `.github/workflows/`).
 - Egress probe (can a session POST to the site directly?): **pending** — to be run in the
   first supervised session; result to be recorded here.
+- The bridge targets the site's **direct Cloud Run URL**, not data-snack.com: the
+  Cloudflare layer in front of the domain drops auth headers/cookies on `/api/*`
+  (verified 2026-07-03). `BACKEND_TOKEN` is live in the site's runtime env and as this
+  repo's Actions secret since 2026-07-03.
 - Memory recall: `python3 tools/memory/cli.py recall "<query>" -k 5` (BM25 over journal,
   works, drafts, cast, memory, feedback; index is derived and gitignored).
