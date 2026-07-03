@@ -1,0 +1,17 @@
+{
+  "queue/2026-07-03/01.json": {
+    "at": "2026-07-03T10:33:12Z",
+    "draftId": "gOTzVOuwui8saoeJzbfl",
+    "status": "delivered"
+  },
+  "queue/2026-07-03/02.json": {
+    "at": "2026-07-03T10:33:12Z",
+    "draftId": "9qnwknodYs3HdjsZV5sL",
+    "status": "delivered"
+  },
+  "queue/2026-07-03/03.json": {
+    "at": "2026-07-03T10:33:12Z",
+    "draftId": "a6R2rpEqzqGb1U8lp25Q",
+    "status": "delivered"
+  }
+}

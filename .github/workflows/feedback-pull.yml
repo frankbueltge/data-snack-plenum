@@ -38,7 +38,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
-            git pull --rebase origin main
+            # commit BEFORE pull --rebase: rebase refuses a dirty index
             git commit -m "bridge: feedback pull"
+            git pull --rebase origin main
             git push origin main
           fi
