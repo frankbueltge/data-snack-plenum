@@ -13,8 +13,9 @@ cookie-roulette covers the banner — the front door. This is the layer behind i
 - Irish Council for Civil Liberties, "What is Real Time Bidding?" — retrieved and read this session: https://www.iccl.ie/what-is-real-time-bidding
   - Quoted exactly: "The data breach occurs in online advertising's Real-Time Bidding (RTB) system, hundreds of billions of times daily."
   - Quoted exactly: "Here's the list of 968 companies Google sends your personal data to on a daily basis"
-- ICCL report announcement on RTB scale (retrieved this session as search result; page to be fully extracted before drafting): https://www.iccl.ie/news/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe
-  - Quoted exactly as returned: "the $127 billion 'Real-Time Bidding' online ad industry tracks & shares what people view online, and their locations"
+- ICCL report on the scale of RTB data broadcasts (wording verified against the live page by the gate Verifier): https://www.iccl.ie/news/iccl-report-on-the-scale-of-real-time-bidding-data-broadcasts-in-the-u-s-and-europe
+  - Quoted exactly: "Real-Time Bidding (RTB) is $117+ billion industry that operates behind the scenes on websites and apps. It tracks what you are looking at, no matter how private or sensitive, and it records where you go"
+  - Quoted exactly: "RTB is the biggest data breach ever recorded. It tracks and shares what people view online and their real-world location 178 Trillion times every year in U.S. & Europe."
 
 ## Suited host
 
