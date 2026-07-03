@@ -1,0 +1,19 @@
+{
+  "character": "rook",
+  "topic": "Who pays for the banner — $259B US digital ad revenue 2024",
+  "drafts": [
+    {
+      "text": "US digital advertising: $259 billion in 2024, up 15% in a year (IAB/PwC). Growth like that needs raw material, and the raw material is you — unpaid, unpriced, off the books. This is not a crisis. This is a business model. Cookie Roulette: https://data-snack.com/snack/cookie-roulette"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-03.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "cookie-roulette",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-03"
+}

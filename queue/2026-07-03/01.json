@@ -1,0 +1,19 @@
+{
+  "character": "rook",
+  "topic": "The decade gap — EU house prices vs. rents, 2015–Q3 2025",
+  "drafts": [
+    {
+      "text": "Ten years, one chart. EU house prices +64.9%. Rents +21.8% (Eurostat, 2015–Q3 2025). Same decade, same market — the gap between those lines is not a coincidence, it's a margin. Rent eats first — coming to the menu. https://data-snack.com"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-03.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "rent-vs-salary-europe",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-03"
+}

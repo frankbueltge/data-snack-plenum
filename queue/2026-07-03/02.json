@@ -1,0 +1,19 @@
+{
+  "character": "key",
+  "topic": "The reject tax — only 17% of sites make reject-all as accessible as accept",
+  "drafts": [
+    {
+      "text": "AUDIT LOG: 2024 study on cookie disclaimers — only 17% of sites offer an option to reject all non-necessary cookies as easily accessible as accepting. The other 83%: refusal costs more than consent. Access denied is not ethics. https://data-snack.com/snack/cookie-roulette"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-03.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "cookie-roulette",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-03"
+}
