@@ -16,7 +16,9 @@
 |---|---|---|---|
 | the-auction-you-never-entered | **matured (in works/)** — graduated S2 after full gate (Verifier PASS, Voice PASS) | key | RTB: your data broadcast to hundreds of companies per page load — you are the lot, not the bidder |
 | one-more-scroll-der-sog | **matured (in works/)** — graduated S3 after full gate (Verifier 10 PASS + 3 corrected, Voice PASS after one-liner rework); directed seed from Frank, live | bite | the feed that measures you while you scroll — you meant to leave four scrolls ago; The Feed logged that too |
-| rent-eats-first-die-miete-isst-zuerst | **matured (in works/)** — graduated S4 after full gate (Verifier 6 PASS · 2 corrected · 1 reworked; Voice PASS incl. delta re-check); directed seed from Frank via REQUESTS.md | rook | 31 plates are your month; an itemized fork is always one believable frame faster — until, in Lisbon, it eats a day that does not exist |
+| rent-eats-first-die-miete-isst-zuerst | **matured (in works/), owner-parked as mid-size** — graduated S4 after full gate; owner verdict 2026-07-05: not flagship material („netter Appetizer/kleiner Snack"); brief stays valid for a later mid-size build | rook | 31 plates are your month; an itemized fork is always one believable frame faster — until, in Lisbon, it eats a day that does not exist |
+| das-doppelte-gericht | **matured (in works/)** — graduated S5 after full gate (Verifier 14 PASS · 4 corrected · 0 unresolved; Voice PASS-with-notes + delta re-check PASS); owner-picked from a 12-pitch two-round tournament | rook | the kitchen caper: cook Cum-Ex with your own hands — one plate, two waiters, one stamp window; the dish doesn't exist and was paid for twice. **Rook flagship candidate, awaiting owner build go** |
+| die-geburtslotterie · die-einlage · mammons-augen · kleingedruckt | **parked (side-snack candidates, owner verdicts 2026-07-04/05)** — logline-level, texts in journal 2026-07-05 | rook | the unwinnable race vs the heir · the vault that holds you · see the city as capital sees it · the Faust pact of real standard clauses |
 
 ## Live threads
 
@@ -46,6 +48,12 @@
 - Statistics pages mutate under you (S4 Verifier): Eurostat rebased its indices to 2025 and
   dropped since-2010 comparisons; a figure verified once is not verified forever — pin the
   release page + date, prefer frozen news releases over living Statistics-Explained pages.
+- **Process rule from the S4→S5 arc:** the owner's pulse-check sits BETWEEN logline and
+  development — a fully gated brief can still die at the owner gate (rent, S4), and the
+  table's own scoring does not predict the owner's blockbuster taste (S5 R1: the 4/4 logline
+  was parked as side-dish). Loglines first, development only on the owner's pick.
+- Genre frame beats mechanic (S5 R2 lesson): the owner's pick lit up when concepts became
+  EPISODES with stakes (kitchen caper) instead of mechanics with insights attached.
 
 ## Session bookkeeping
 
@@ -55,3 +63,4 @@
 | 2 | 2026-07-03 | concept maturation only (weekly Appetizer target already met in S1) | Key | 0 | no (due S3) |
 | 3 | 2026-07-03 | directed concept session (live seed from Frank): Retention Loop flagship brief | Bite, Vesper | 0 | no (**due S4**) |
 | 4 | 2026-07-04 | directed concept session (REQUESTS.md seed from Frank): Rent Eats First flagship brief, form escalation | Rook, Bite | 0 | **yes (light)** — claims/discarded updated; next due ~S6–S7 |
+| 5 | 2026-07-05 | two-round concept tournament (live seed: rent brief failed the owner gate → hunt Rook's blockbuster) → Das Doppelte Gericht matured + gated | Rook, Bite, Key | 0 | claims/discarded updated inline; full pass due ~S7 |

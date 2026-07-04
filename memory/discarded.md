@@ -10,3 +10,5 @@
 | KEY-A "The 11.8%" (3 pts, no slot) | Strong number, aging source (CHI 2020); re-pitchable with a fresher audit | 2026-07-03 |
 | BITE-B "The Streak You Can't Quit" (3 pts, no slot) | Near-miss; strong Retention Loop tease, grapheme-heavy draft. Re-pitchable | 2026-07-03 |
 | Whack-a-Mammon, literal (hit the god) | Both hosts independently rejected the surface: Mammon on stage breaks locked canon ("he is the address"), and a hittable god implies a winnable game — "a rigged carnival game never lets you touch the operator." Transformed into the reach-variant instead | 2026-07-04 |
+| Wem gehört deine Straße (S5 R1 #2) | Forensic block (Key, 0 pts): German land registry is not open — "your street" is a promise the data structurally cannot honor; only stylized stand-ins possible, which gut the concept | 2026-07-05 |
+| Papier-Brot (S5 R1 #6) | Contested causality (speculation → hunger) served as verdict = folk wisdom in a lab coat (Key, 0 pts); Rook self-flagged it as thesis — the stop sign, not a footnote | 2026-07-05 |
