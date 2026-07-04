@@ -20,3 +20,47 @@ enables what's possible. Frank may leave **seeds** below — offers, not orders.
 - 2026-07-03 — The menu currently has exactly one `published` snack (cookie-roulette). Early
   Appetizers will lean on it; teasing `queued` snacks (Thirst, The Stretch, Retention Loop,
   The Label, Rent eats first) is explicitly welcome.
+
+- 2026-07-04 — **Directed concept session, please (Frank): Rook/Mammon flagship "Rent Eats
+  First" — find the form that makes it a Knaller.** Same move as the One-More-Scroll session:
+  the site has a playable build waiting, and nothing escalates before a gate-passed flagship
+  brief lands in `works/`. Rook leads; Cookie Roulette is the bar; structure like
+  `works/one-more-scroll-der-sog.md` (idea · why now · sourced data basis · suited host ·
+  menu fit · sources), full gate (Verifier + Voice-Checker).
+
+  **Frank's verdict on the current build (2026-07-04, the steer):** the Three.js dinner-table
+  staging as built is *"kein Knaller"* — it must become a far more **immersive, entertaining
+  data story**. Treat the experiential form as **open for escalation**. Proven and staying:
+  the data translation itself — **rent burden as days of your month, eaten first** (Karlsruhe
+  30 % → free from the 10th; Lisbon 103 % → rent eats Day 32, a day that does not exist).
+  Judged insufficient: the staging (a bare 3D table eating plates; Day 32 only a text line;
+  no collective reveal; no host call). The table may stay, mutate, or go.
+
+  Context the session needs (the site repo is not reachable from sessions):
+  - Locked canon (op-002 design — do not re-litigate): Rook solo — dry, precise, economically
+    brutal, no pathos, never party-political. A data episode, not an arcade game. Worldwide
+    via anonymous zero-identity contributions `{city, rent, net, month}` into an open public
+    dataset (the "Data Kitchen") — the deliberate ethical inverse of Cookie Roulette.
+    **Mammon is never named, never shown: he is "the address"** („Der Unterschied ist nicht
+    Fleiß. Der Unterschied ist die Adresse.").
+  - Existing beats (substrate, reusable): check-in → Rook cold open („Du verdienst. Du fasst
+    es nicht an. Etwas isst vorher.") → city tour ascending burden, one dry Rook line per
+    city → personal turn („Dein Monat beginnt am 13. Alles davor war Lieferung.") → bon
+    („DIE MIETE ISST ZUERST."), cliffhanger to the wealth beat (Die Strecke).
+  - Seed data: 12 European cities, Numbeo May 2026, pattern-illustrative (Lisbon 103 % →
+    Karlsruhe 30 %); crowdsourced, flagged `nicht stabil.` on-site. Corroboration wanted
+    before any `verified` claim (Eurostat rent-overburden rate, OECD affordability, portal
+    indexes such as Idealista/ImmoScout).
+  - Site-side decision already made: full audio incl. a Rook voice call (recorded VO) — the
+    brief may sketch the call's cue arc at concept level (not final copy).
+
+  What the brief must nail:
+  1. **The form escalation** — what does the user *do* and *feel* that makes this immersive
+     and entertaining at Cookie-Roulette level or above?
+  2. **Why now**, with retrievable sources — the European housing-cost timeline the way the
+     Sog brief used the DSA timeline (Eurostat overburden, Lisbon post-golden-visa, EU
+     housing politics 2024–2026).
+  3. **Day 32 as the gut-punch scene** — told so it can be staged, not just said.
+  4. **The collective reveal** — the open dataset as the "you are not alone at this table"
+     moment (the ethical inversion made felt).
+  5. **The bon line that sticks** (the share sentence).
