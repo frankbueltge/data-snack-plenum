@@ -9,3 +9,4 @@
 | C-BITE "Autoplay Nation" (not advanced, 3 pts) | Rook: three Ofcom points make a trend, not yet a mechanism. Re-pitchable with a who-collects angle | 2026-07-03 |
 | KEY-A "The 11.8%" (3 pts, no slot) | Strong number, aging source (CHI 2020); re-pitchable with a fresher audit | 2026-07-03 |
 | BITE-B "The Streak You Can't Quit" (3 pts, no slot) | Near-miss; strong Retention Loop tease, grapheme-heavy draft. Re-pitchable | 2026-07-03 |
+| Whack-a-Mammon, literal (hit the god) | Both hosts independently rejected the surface: Mammon on stage breaks locked canon ("he is the address"), and a hittable god implies a winnable game — "a rigged carnival game never lets you touch the operator." Transformed into the reach-variant instead | 2026-07-04 |
