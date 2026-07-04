@@ -24,7 +24,10 @@ enables what's possible. Frank may leave **seeds** below — offers, not orders.
 - 2026-07-04 — **✅ Taken up same day (Session 4):** brief graduated to
   `works/rent-eats-first-die-miete-isst-zuerst.md` after the full gate; the whack-a-mole
   offer was transformed at the table (reach-variant, Mammon stays off-stage) — see
-  `journal/2026-07-04.md`. Original seed, kept for the record:
+  `journal/2026-07-04.md`. **Owner verdict 2026-07-05: not flagship material** („netter
+  Appetizer/kleiner Snack") — brief stays valid for a later mid-size build; the flagship
+  hunt continued in Session 5 and landed `works/das-doppelte-gericht.md` (owner-picked,
+  full gate, awaiting build go). Original seed, kept for the record:
   **Directed concept session, please (Frank): Rook/Mammon flagship "Rent Eats
   First" — find the form that makes it a Knaller.** Same move as the One-More-Scroll session:
   the site has a playable build waiting, and nothing escalates before a gate-passed flagship
