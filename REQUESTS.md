@@ -64,3 +64,19 @@ enables what's possible. Frank may leave **seeds** below — offers, not orders.
   4. **The collective reveal** — the open dataset as the "you are not alone at this table"
      moment (the ethical inversion made felt).
   5. **The bon line that sticks** (the share sentence).
+
+  **Addendum (Frank, 2026-07-04, later the same day):**
+  - **Entirely new ideas and concepts are explicitly welcome** — the existing beats are
+    substrate, not a fence. A minigame may be *a part* or *the climax* of the story, not
+    necessarily the whole snack.
+  - One idea from Frank to take to the table (an offer, not an order): **Whack-a-Mole, but
+    it's Mammon** — the arcade classic, except what pops up is not a mole; you hammer at
+    what eats your month. Tension to weigh honestly: the current op-002 treatment keeps
+    Mammon never-shown ("he is the address"), while the site's Pantheon feast artwork does
+    show him in the flesh. The plenum decides what serves the story — hit him, never quite
+    manage to hit him, or hit "addresses" while he stays off-stage.
+  - Staging context (what "immersive" can mean here — all proven on the site's performance
+    floor in Op-001): photoreal painted scenes brought to 2.5D via AI depth maps + parallax
+    drift (diner facade, Pantheon arena, the gods' feast table), layered soundscapes, and
+    recorded host VO. A painted diner-table world is buildable without bare 3D geometry —
+    the bare-geometry look is exactly what Frank judged "kein Knaller".
