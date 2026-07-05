@@ -55,6 +55,13 @@
   was parked as side-dish). Loglines first, development only on the owner's pick.
 - Genre frame beats mechanic (S5 R2 lesson): the owner's pick lit up when concepts became
   EPISODES with stakes (kitchen caper) instead of mechanics with insights attached.
+- **The Field Standard (anchored 2026-07-05, post-S6) — the deepest flagship filter.** After the
+  owner rejected all six S6 loglines as "das weiß doch schon jeder, kein Geheimnis," `FIELD.md`
+  (Frank's field-map) was anchored as `FIELD-STANDARD.md` + a Field-Checker gate. A flagship is
+  an INVESTIGATION of a specific named system (Lavender, a named ruling/tool/leak), not an
+  EXPLAINER of a known phenomenon (money creation, inequality). Litmus at the pitch: "I didn't
+  know that" vs. "everyone knows that." Known-fact concepts → Appetizer/Quick-Snack/Atlas, not
+  flagship. This sits ABOVE genre-frame and internationality in the filter order.
 
 ## Session bookkeeping
 
