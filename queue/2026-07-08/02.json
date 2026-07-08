@@ -1,0 +1,19 @@
+{
+  "character": "key",
+  "topic": "Reject all is not opt-out — CNIL fines vanityfair.fr's publisher €750k for cookies set before and after refusal (Nov 2025)",
+  "drafts": [
+    {
+      "text": "Log entry: CNIL fined Condé Nast's French publisher €750,000, 20 Nov 2025. vanityfair.fr set cookies before any click, kept setting them after users hit Reject All. Reject all is not opt-out — it's a UI suggestion. Better odds here: https://data-snack.com/snack/cookie-roulette #CNIL #consent"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-08.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "cookie-roulette",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-08"
+}

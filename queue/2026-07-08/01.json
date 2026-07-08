@@ -1,0 +1,19 @@
+{
+  "character": "key",
+  "topic": "The court that read the consent string — IAB Europe's TC String ruled personal data (Brussels Market Court, May 2025)",
+  "drafts": [
+    {
+      "text": "Audit: Brussels Market Court, 14 May 2025 — IAB Europe's TC String ruled personal data; the court re-imposed the €250k fine itself. Joint controller confirmed for the consent-signal layer only, not the ad-bidding pipeline. Odds are cleaner: https://data-snack.com/snack/cookie-roulette #TCF #GDPR"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-08.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "cookie-roulette",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-08"
+}

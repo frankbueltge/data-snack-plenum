@@ -9,6 +9,9 @@
 | 2026-07-03 | queue/2026-07-03/01.json | rook | rent-vs-salary-europe (tease) | queued |
 | 2026-07-03 | queue/2026-07-03/02.json | key | cookie-roulette | queued |
 | 2026-07-03 | queue/2026-07-03/03.json | rook | cookie-roulette | queued |
+| 2026-07-08 | queue/2026-07-08/01.json | key | cookie-roulette (TC String court ruling) | queued |
+| 2026-07-08 | queue/2026-07-08/02.json | key | cookie-roulette (CNIL reject-all fine) | queued |
+| 2026-07-08 | queue/2026-07-08/03.json | bite | retention-loop (tease) | queued |
 
 ## Open concepts
 
@@ -64,6 +67,19 @@
   EXPLAINER of a known phenomenon (money creation, inequality). Litmus at the pitch: "I didn't
   know that" vs. "everyone knows that." Known-fact concepts → Appetizer/Quick-Snack/Atlas, not
   flagship. This sits ABOVE genre-frame and internationality in the filter order.
+- **Verifier's #1 catch on a well-researched Appetizer is a framing overstatement, not a fake number (S9).**
+  Two of three winners drew PASS-WITH-CORRECTION, both on the VERB/SCOPE around a real figure: "fine upheld"
+  (court actually annulled-on-procedure and re-imposed it), "joint-controlled pipeline" (confirmed for the
+  consent layer only, rejected for OpenRTB), and entity precision ("Les Publications Condé Nast" ≠ the global
+  parent). Pressure-test the verb and scope at the table; a ruling almost always has a split or a procedural twist.
+- **Bite register FAIL is rhythm, not vocabulary (S9).** BITE-2 v1 had all the signature words but opened with a
+  flat date-stat dump in Key's cadence → Voice FAIL "could be any host's line." v2 kept every number, broke them
+  into fast fragments behind a memetic hook → PASS. Fix Bite altitude by fragmenting and leading with the hook.
+- **The lean two-host table works (S9).** Menu balance (least-served host AND snack), not headcount, picked the
+  pair: Key (owns the only published snack) + Bite (0-for-2, teasable queue); Rook/Vesper rested. 4 sub-agents
+  total. The two-voice cross-vote produced three clean 2/2 winners, no tie-break needed; Bite landed its first slot.
+- **Still no real feedback signal (S9).** `feedback/` holds only two E2E-test cleanups; two batches (07-03, 07-08)
+  await Frank's first genuine approval/rejection — the strongest steering signal, still pending.
 - **Field Standard, first hunt under it (S7): it works.** Round 4 hunted NAMED systems paired with
   the enforcement action / rulebook change against each, and returned 5 loglines that all clear the
   five-part test (RealPage rent cartel · Uber Upfront Fares · World Bank PEF pandemic bond · pari
@@ -84,3 +100,4 @@
 | 6 | 2026-07-05 | directed re-pitch (REQUESTS seed "Flagship hunt R3"): S5 pool + new ideas through the new **INTERNATIONAL** flagship gate → 6 surviving loglines + 2 new, owner pulse-check pending | none (CHEF-led, loglines-first, no vote staged) | 0 | +1 claim (international gate); full pass due ~S7 |
 | 7 | 2026-07-05 | directed **Round 4** flagship hunt run UNDER the new **Field Standard** (investigation of a NAMED system, not explainer of a known phenomenon) → 5 loglines, ALL cleared the five-part test + internationality; owner pulse-check pending | none (CHEF-led **investigation**, ~9 primary-source searches, loglines-first, no vote staged) | 0 | +1 claim (named-system-+-enforcement-doc is the flagship vein); **full consolidation now OVERDUE — run next session** |
 | 8 | 2026-07-06 | **maturation** of the owner's flagship pick (RealPage / der-algorithmus-im-nebenzimmer) → full brief in works/ + independent 3-part gate (re-run on Sonnet after the author agent hit the account session limit pre-gate) | Rook (author) + Verifier, Voice-Checker, Field-Checker (independent) | 0 | Verifier 29·1·1·0 · Voice PASS-w-notes · Field 5/5; +1 claim candidate (author self-check ≠ gate); **consolidation still OVERDUE ~S9** |
+| 9 | 2026-07-08 | standing weekly Appetizers (lean two-host table) + **overdue full consolidation** | Key, Bite + Verifier, Voice-Checker | 3 | **yes (full)** — claims +4, discarded +3, open-questions + workboard refreshed; both gates re-run after 2 PASS-WITH-CORRECTION + 1 Voice FAIL, all 3 passed on rework; next consolidation ~S11–S12 |
