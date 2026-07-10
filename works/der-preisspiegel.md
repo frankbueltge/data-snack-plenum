@@ -2,7 +2,7 @@
 
 **Pitch:** „Eine Schlange, ein Schirm, der jedes Gesicht liest — der Preis, den du heute Nacht setzt, steht nicht am Produkt. Er steht an der Person. Und die letzte Person in der Schlange bist du." *(EN: One queue, one screen that reads every face — the price you set tonight isn't on the product. It's on the person. And the last person in the queue is you.)*
 
-**Host:** Rook · **Nemesis:** Mammon (looming, nie on-stage — der Eigentümer des Schirms, der deinen Preis kennt) · **Format:** Flagship-Operation, 3,5–4,5 min, Check-in → Pickup · **Genre:** Preis-Noir / Komplizenschaft (become-the-thing) · **Status:** Konzept-Brief; **unabhängiges Gate AUSSTEHEND** (Entwicklung S9, 2026-07-10; Verifier/Voice-Checker/Field-Checker folgen separat — Header trägt KEIN „Gate bestanden", bis die drei gelaufen sind). Quelle: Owner-approved über vier Puls-Checks (Surveillance Pricing → „das Preisschild liest dich" → become-the-thing-POV → dieses Treatment); **Owner-Pick 2026-07-10.** · **Op-Nr.:** TBD (Vergabe-Check; Op-005-Sperre beachtet: kein Casino, kein Zufall — Skill und Komplizenschaft)
+**Host:** Rook · **Nemesis:** Mammon (looming, nie on-stage — der Eigentümer des Schirms, der deinen Preis kennt) · **Format:** Flagship-Operation, 3,5–4,5 min, Check-in → Pickup · **Genre:** Preis-Noir / Komplizenschaft (become-the-thing) · **Status:** Konzept-Brief; **unabhängiges Gate gelaufen (2026-07-10):** Verifier **13 PASS · 2 korrigiert · 1 offen · 0 Fabrikationen** (Korrekturen eingearbeitet); Voice-Checker **PASS-with-notes** (Signaturzeile umgelabelt, ein „nicht-X-sondern-Y" entschärft); Field-Checker **3/5** — der KNALLER landet (3/4 Wow-Momente gespielt, besser als RealPage), Komprehension + Internationalität sauber, ABER **kein einzelnes benanntes System wie YieldStar**, Discovery-Prong schwach, Kern-Mechanik = dokumentierte *Fähigkeit* (FTC 2025), keine bewiesene Ubiquität → **Framing-Entscheidung beim Owner** (als „dramatisierte Fähigkeit / die Maschine, die sie bauen" ehrlich positionieren). Quelle: Owner-approved über vier Puls-Checks (Surveillance Pricing → „das Preisschild liest dich" → become-the-thing-POV → dieses Treatment); **Owner-Pick 2026-07-10.** · **Op-Nr.:** TBD (Vergabe-Check; Op-005-Sperre beachtet: kein Casino, kein Zufall — Skill und Komplizenschaft)
 
 ---
 
@@ -37,13 +37,13 @@ Der Tresen bildet reale, dokumentierte Praxis 1:1 ab. **Bindend in beide Richtun
 
 | Tresen (Spiel) | Realität (benannte Systeme / Fälle) |
 |---|---|
-| Der Schirm liest jedes Gesicht aus dem Datenauspuff | FTC-Surveillance-Pricing-Report (17.01.2025): Intermediäre bauen individualisierte Profile aus Standort, Browsing, Demografie, sogar **Mausbewegungen** [to verify: exakte Signal-Liste] |
+| Der Schirm liest jedes Gesicht aus dem Datenauspuff | FTC-Surveillance-Pricing-Report (17.01.2025): Intermediäre bauen individualisierte Profile aus Standort, Demografie, Browsing, sogar **Mausbewegungen** und liegengelassenen Warenkorb-Artikeln (Khan-Zitat, verifiziert) |
 | Der geflüsterte „Zahlungsbereitschafts"-Read | FTC verbatim: Ziel ist „willingness to pay"; „loyalty" als Signal genannt |
 | Preis hoch auf ihr Maximum; zu weit → sie geht | Personalisierte Preissetzung / Preisdiskriminierung ersten Grades — der ökonomische Kern |
 | Der „Rabatt", der eine getarnte Erhöhung ist | FTC: Systeme entscheiden, wem eine Promotion gezeigt wird — oder nicht; EU-Omnibus-Richtlinie verlangt den vorherigen Tiefstpreis, *weil* Fake-Referenzpreise verbreitet waren |
 | Profil-Signale: altes Android vs. iPhone; PLZ; Uhrzeit | **Orbitz** zeigte Mac-Nutzern teurere Hotels (2012); **Staples** bepreiste nach PLZ (WSJ 2012); Gerät/Geo dokumentiert [to verify at build: Primärzitate] |
 | Der Flip: dein Profil aus deinem eigenen Verhalten | Profile werden aus genau dem Verhaltens-Exhaust gebaut, den der Spieler im Spiel emittiert |
-| Die Inversion: treu/erreichbar → du zahlst MEHR | **UK-FCA-„Loyalty Penalty"**: treue Bestandskund*innen zahlten systematisch mehr; FCA verbot das „Price Walking" (Versicherungen, wirksam 2022) [to verify: Domäne/Datum] |
+| Die Inversion: treu/erreichbar → du zahlst MEHR | **UK-FCA-„Loyalty Penalty"**: treue Bestandskund*innen zahlten systematisch mehr; FCA verbot das „Price Walking" (Kfz-/Wohngebäudeversicherung, wirksam 1.1.2022 — verifiziert) |
 | Der Surplus-Zähler | Die abgeschöpfte Konsumentenrente — der Werttransfer vom Käufer zur Maschine |
 
 ### B4 · Der Spiegel (Twist)
@@ -59,9 +59,9 @@ Freeze. Split-Screen: links dein Tresen (Schirm, Regler, Schlange), rechts die r
 Dann druckt die Kasse — lang, langsam, als einziges Geräusch — den **zweiseitigen Bon**:
 
 - **Vorderseite:** DEINE NACHT — der Surplus, den du heute Nacht abgeschöpft hast: gelesen, geschnitten, getarnte Rabatte, exakt am Bruchpunkt.
-- **Rückseite:** WAS DAS HEISST, wenn es an dir geschieht — die **Inversion, die keiner kennt**, trocken aufgezählt, mit „≈" und Quellen auf dem Beleg: *treu, erreichbar, gut lesbar zu sein heißt: du zahlst mehr* (FCA-Loyalty-Penalty); *ein „Rabatt" kann eine getarnte Erhöhung sein* (EU-Omnibus); *lesbar sein heißt bepreist sein*. Keine Adjektive. Aufzählen, nicht predigen. **Ehrliche Schlusszeile:** „Das ist keine Verschwörung. Es ist eine Industrie — die FTC hat sie 2025 benannt. Die EU verlangt seit 2022, dass ein personalisierter Preis als solcher offengelegt wird. Fast niemand tut es." [aggregierter Gesamt-Werttransfer: keine belastbare Einzelzahl — **[to verify at build]**, wird nicht erfunden.]
+- **Rückseite:** WAS DAS HEISST, wenn es an dir geschieht — die **Inversion, die keiner kennt**, trocken aufgezählt, mit „≈" und Quellen auf dem Beleg: *treu, erreichbar, gut lesbar zu sein heißt: du zahlst mehr* (FCA-Loyalty-Penalty); *ein „Rabatt" kann eine getarnte Erhöhung sein* (EU-Omnibus); *lesbar sein heißt bepreist sein*. Keine Adjektive. Aufzählen, nicht predigen. **Ehrliche Schlusszeile:** „Die FTC hat sie 2025 benannt: eine Industrie, keine Verschwörung. Die EU verlangt seit 2022 die Offenlegung personalisierter Preise — kaum jemand setzt sie durch." [aggregierter Gesamt-Werttransfer: keine belastbare Einzelzahl — **[to verify at build]**, wird nicht erfunden.]
 
-Rook, eine Zeile: „Der Preis war nie am Produkt. Er war immer die Frage, wie viel du erträgst." *(einzige Katalog-Signaturzeile dieses Dokuments)*
+Rook, eine Zeile: „Der Preis war nie am Produkt. Er war immer die Frage, wie viel du erträgst." *(neue signaturfähige Rook-Zeile — Kandidat für den Katalog in `cast/rook.md`, nicht bereits kanonisch; im Playthrough die einzige aphoristische Signaturzeile)*
 
 ### Zwei Enden, eine Wahrheit (entschieden: ja)
 
@@ -86,16 +86,16 @@ CHEF-Tresen, Haus-Kit. Das Receipt ist der zweiseitige Bon als Flip-Card-Share-A
 
 - **Die FTC-Studie:** Am 17.01.2025 veröffentlichte die FTC die ersten Ergebnisse ihrer **Surveillance-Pricing-6(b)-Studie** — sie hatte acht Intermediäre unter die Lupe genommen (Mastercard, JPMorgan Chase, Revionics, Task Software, PROS, Bloomreach, Accenture, McKinsey) und fand eine Industrie, die Händlern verspricht, „the right price to the right person at the right moment" zu setzen — aus Standort, Browsing-Verhalten, Demografie [to verify: exakte Findings/Zitate].
 - **Die EU-Regel:** Die **Omnibus-Richtlinie (2019/2161)**, in den Mitgliedstaaten seit Mai 2022 wirksam, verlangt die Offenlegung, wenn ein Preis durch automatisierte Entscheidungsfindung *personalisiert* wurde — und den vorherigen Tiefstpreis bei „Rabatten", gerade weil Fake-Referenzpreise verbreitet waren.
-- **Die UK-Evidenz:** Die **FCA-„Loyalty-Penalty"**-Arbeit dokumentierte, dass treue Bestandskund*innen systematisch mehr zahlten, und verbot das „Price Walking" [Domäne/Datum to verify].
+- **Die UK-Evidenz:** Die **FCA-„Loyalty-Penalty"**-Arbeit dokumentierte, dass treue Bestandskund*innen systematisch mehr zahlten, und verbot das „Price Walking" (Kfz-/Wohngebäudeversicherung, wirksam 1.1.2022).
 - **Die Fälle, die es schon gab:** Orbitz-Mac-Steering (2012), Staples-PLZ-Preise (WSJ 2012) — das Muster ist alt; neu ist, dass KI es individualisiert und skaliert.
 - Kein Archivthema. Eine Industrie, die gerade erst benannt wird — und eine Regel, die kaum jemand befolgt.
 
 ## Data basis
 
 **Kernquellen (Entwicklung S9; Verifier-Prüfung AUSSTEHEND — alle Zahlen/Zitate am Gate gegen Primärquellen zu bestätigen):**
-- **FTC Surveillance Pricing 6(b) Study** (Initial-Findings 17.01.2025): acht Intermediäre (Mastercard, JPMorgan Chase, Revionics, Task Software, PROS, Bloomreach, Accenture, McKinsey/Periscope); Zielgröße „willingness to pay"; Signale u. a. Standort, Browsing, Demografie, „loyalty". [Exakte Findings, Zitate, benannte Retail-Kunden: to verify at build.]
+- **FTC Surveillance Pricing 6(b) Study** (Initial-Findings 17.01.2025, verifiziert): acht georderte Intermediäre — **Mastercard, Revionics, Bloomreach, JPMorgan Chase, Task Software, PROS, Accenture, McKinsey & Co.** (FTC-Wortlaut; „Periscope" ist McKinseys Pricing-Produktlinie, externer Kontext, nicht FTC-Terminologie); Zielgröße **„willingness to pay"** + **„loyalty"** (FTC-verbatim); Signale u. a. Standort, Demografie, Browsing, Mausbewegungen (Khan-Zitat). [benannte Retail-Kunden im FTC-Report redigiert → strukturell nicht verfügbar; aggregierter Werttransfer: to verify at build.]
 - **EU-Omnibus-Richtlinie 2019/2161** (Personalisierungs-Offenlegung; Fake-Referenzpreis-Regel; wirksam ~2022).
-- **UK FCA Loyalty Penalty / General-Insurance-Pricing-Remedy** (Price-Walking-Verbot). [Domäne + Datum to verify.]
+- **UK FCA General Insurance Pricing Practices** (Price-Walking-Verbot; Kfz-/Wohngebäudeversicherung; PS21/5, wirksam 1.1.2022 — verifiziert).
 - **Dokumentierte Fälle:** Orbitz (Mac-Nutzer → teurere Hotels, 2012); Staples (PLZ-basierte Preise, WSJ 2012); ggf. Princeton/Amazon-Studien. [Primärzitate to verify.]
 
 **Granularitäts-Ehrlichkeit (bindend):** Die *Fähigkeit* und die *Industrie* sind dokumentiert (FTC 2025); die *belegten Einzelfälle* sind domänenspezifisch (Orbitz, Staples, FCA-Versicherung). Ubiquitäre Pro-Person-Bepreisung im Alltagshandel ist eine **emergente, von der FTC benannte** Fähigkeit — nicht eine bewiesene Universal-Praxis. Die Episode sagt das auf dem Bon. Keine Personalisierung, keine realen Namen im spielbaren Loop; das Spieler-Profil ist rein spiel-intern (keine echte Erhebung, keine PII).
@@ -115,9 +115,9 @@ CHEF-Tresen, Haus-Kit. Das Receipt ist der zweiseitige Bon als Flip-Card-Share-A
 ## Sources
 
 *(Entwicklung S9 — URLs/Zitate am Gate durch den Verifier zu bestätigen; hier die Anker aus der abgeschlossenen Recherche der S9-Dispatch, vor dem API-Abbruch.)*
-1. FTC — Surveillance Pricing 6(b) Study, Initial Staff Findings (17.01.2025); die acht georderten Intermediäre (Mastercard, JPMorgan Chase, Revionics, Task Software, PROS, Bloomreach, Accenture, McKinsey/Periscope). **[URL + exakte Findings/Zitate: to verify at build.]**
+1. FTC — Surveillance Pricing 6(b) Study, Initial Staff Findings (17.01.2025, verifiziert); die acht georderten Intermediäre: Mastercard, Revionics, Bloomreach, JPMorgan Chase, Task Software, PROS, Accenture, McKinsey & Co. (Khan-Zitat „…from a person's location and demographics, down to their mouse movements…"). **[Deep-Link/PDF-URL im Build fixieren.]**
 2. EU — Omnibus-Richtlinie (EU) 2019/2161 (Personalisierungs-Offenlegung; Fake-Referenzpreis-Regel; Anwendung ab 28.05.2022). **[to verify]**
-3. UK FCA — General Insurance Pricing Remedy / Loyalty-Penalty (Price-Walking-Verbot). **[Domäne/Datum to verify]**
+3. UK FCA — General Insurance Pricing Practices (PS21/5, Mai 2021; Price-Walking-Verbot Kfz-/Wohngebäudeversicherung, wirksam 1.1.2022 — verifiziert).
 4. WSJ — „Websites Vary Prices, Deals Based on Users' Information" (Staples-PLZ-Preise, 2012). **[to verify]**
 5. Orbitz — Mac-vs-PC-Hotel-Steering (2012, WSJ). **[to verify]**
 6. Offene Flags (im Build zu fixieren): aggregierter Werttransfer $; exakte FTC-Signal-Liste + benannte Retail-Kunden; Princeton/Amazon-Differential-Pricing-Studie; die genaue FTC-„willingness to pay"/„loyalty"-Wortlaut — **[to verify at build]**.
