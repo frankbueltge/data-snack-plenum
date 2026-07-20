@@ -12,6 +12,10 @@
 | 2026-07-08 | queue/2026-07-08/01.json | key | cookie-roulette (TC String court ruling) | queued |
 | 2026-07-08 | queue/2026-07-08/02.json | key | cookie-roulette (CNIL reject-all fine) | queued |
 | 2026-07-08 | queue/2026-07-08/03.json | bite | retention-loop (tease) | queued |
+| 2026-07-15 | queue/2026-07-15/01.json | rook | die-strecke (tease) — 60% of billionaire wealth is inheritance/monopoly/crony | queued |
+| 2026-07-15 | queue/2026-07-15/02.json | key | cookie-roulette — only 2.18% ever reach the layer where reject hides | queued |
+| 2026-07-15 | queue/2026-07-15/03.json | bite | retention-loop (tease) — 2h23m/day, a third of your online life | queued |
+| 2026-07-15 | queue/2026-07-15/04.json | vesper | ai-thirst (tease) — data centres draw more than Japan's power by 2030 | queued |
 | 2026-07-20 | queue/2026-07-20/01.json | key | cookie-roulette (CNIL/Shein reject-all) | queued |
 | 2026-07-20 | queue/2026-07-20/02.json | vesper | ai-thirst (tease — PUE floor) | queued |
 | 2026-07-20 | queue/2026-07-20/03.json | vesper | ai-thirst (tease — two meters/appendix) | queued |
@@ -43,9 +47,24 @@ the diner re-cooks, never reprints; derived pieces credit the source work.*
 | **der-preisspiegel** (The Price That Sees You) — surveillance/personalized pricing | **✅ OWNER BUILD-GO (2026-07-10) — site side: Op-011 assigned, op folder + 10-phase build plan + assets brief written (`op-011-rook-der-preisspiegel/`, planned WIP route `/snack/preis-op`); build starts on the owner's plan sign-off.** The "dramatized capability" framing is a binding build note. Gate record: developed S9 + independently gated (2026-07-10): Become-the-thing pricer: a screen reads each customer's willingness-to-pay from their data exhaust, you take their exact max, until the last profile is YOU. Gate: **Verifier 13·2·1·0 (0 fabrications), Voice PASS-with-notes, Field-Checker 3/5** — the KNALLER lands (better than RealPage) + facts clean + comprehension clean, BUT no single named-scandal like YieldStar; it's a documented FTC *capability* (Jan 2025), not a proven ubiquitous practice. Honest fix on the table: own the "dramatized capability / the machine they're building" framing. Grounded: FTC 6(b) 2025 + 8 intermediaries, EU Omnibus, UK FCA price-walking ban | rook | you set a different price for every face; a screen reads how much each person will bear and you take exactly their max — and the last face it reads is yours (the loyal/legible pay MORE) |
 | **S7 owner-endorsed future queue** — uber-upfront-fares · pef-pandemic-bond · pari-passu-argentina · cds-manufactured-default | **captured for future snacks (owner 2026-07-06: "alle großartige Vorschläge, festhalten und einplanen")** — the four non-picked S7 concepts, all cleared the Field Standard + internationality; held as future Appetizer / Quick-Snack / later-flagship material, NOT discarded. Loglines + Field-Checker verdicts in journal S7 | rook (bite for der-bruch) | personalized gig pay tuned to your reservation wage (Uber Upfront Fares) · the pandemic bond engineered not to pay the poorest (World Bank PEF) · two Latin words that blocked a nation's debt payments (pari passu / NML v. Argentina) · paying a healthy firm to default to win a CDS bet (NTCE — soft victim prong, flagged) |
 
+## Wareneingang — supply-line candidates (from Meridian, github.com/frankbueltge/field-research)
+
+*First inspection 2026-07-15 (baseline: Meridian works through its session 37 / 2026-07-14). Source-linked future quarry; none built yet. No diner piece is derived from these yet — no crediting owed until one is.*
+
+| Meridian work | Diner angle | Natural host | Source |
+|---|---|---|---|
+| 013 "The Floor" (PUE; a named operator's electricity +27% in 2024; Scope 2 +120.5% 2019–2024) | Appetizer/Quick-Snack seed for **Thirst** (AI material cost); water-anchored Thirst Appetizer once numbers independently gated | Vesper / Rook | frankbueltge.de/field · works/2026-07-09-the-floor |
+| 003 "Provenance Horizon" / 014 "The Split Seal" (C2PA "Valid ≠ Trusted"; 0 of 6 real signers separate from a forge under the current official trust list) | **Strong Key concept seed** — the "verified" seal that doesn't verify; Field-Standard-shaped | Key | frankbueltge.de/field · works/2026-07-11-split-seal |
+| 012 "The Two Meters" (GHG Scope 2 dual-reporting; twin-invoice register) | Quick-Snack candidate — corporate carbon "two meters, one goes public" | Rook / Vesper | frankbueltge.de/field · works/2026-07-06-two-meters |
+| 001/005 (detector calibration / benchmark saturation) · 006 (COMPAS fairness) | Quick-Snack fodder | Key / Bite / Rook | frankbueltge.de/field |
+
 ## Live threads
 
 *(running observations: what earns approvals, voice-drift notes, menu gaps)*
+
+- **Cadence restored (S10):** first Appetizers since S1 — 4 queued (rook/die-strecke, key/cookie-roulette, bite/retention-loop, vesper/ai-thirst), one per host, each teasing a DIFFERENT snack. The menu-gap (everything converging on cookie-roulette) was deliberately answered by diversification. Vesper convened (rare-appropriate: AI resource-draw endgame).
+- **Gate caught a new failure CLASS (S10):** not wrong numbers but *mischaracterised metrics* — Bite's "average scroll session" (2h23m is a daily aggregate, not one sitting) and Vesper's "the machines behind every answer" (945 TWh is TOTAL data-centre power, not AI-only). Both correct numbers, wrong framing. Distinct from the old "wrong-number/snippet" vector; the Verifier now checks *what a figure means*, not just its value.
+- **Voice-Checker caught a body/teaser coherence gap (S10):** Vesper's power stat vs the water-signalling "Thirst" dish name — advisory, not a voice failure. Recorded: match the finding's substance to the snack's promise.
 
 - **The plenum's name is "Line Check"** (decided Session 1; Rook and Key proposed it
   independently, Bite scored it 2). Future sessions may commit under this identity.
@@ -130,4 +149,5 @@ the diner re-cooks, never reprints; derived pieces credit the source work.*
 | 8 | 2026-07-06 | **maturation** of the owner's flagship pick (RealPage / der-algorithmus-im-nebenzimmer) → full brief in works/ + independent 3-part gate (re-run on Sonnet after the author agent hit the account session limit pre-gate) | Rook (author) + Verifier, Voice-Checker, Field-Checker (independent) | 0 | Verifier 29·1·1·0 · Voice PASS-w-notes · Field 5/5; +1 claim candidate (author self-check ≠ gate); **consolidation still OVERDUE ~S9** |
 | 9 | 2026-07-08 | standing weekly Appetizers (lean two-host table) + **overdue full consolidation** | Key, Bite + Verifier, Voice-Checker | 3 | **yes (full)** — claims +4, discarded +3, open-questions + workboard refreshed; both gates re-run after 2 PASS-WITH-CORRECTION + 1 Voice FAIL, all 3 passed on rework; next consolidation ~S11–S12 |
 | 9 | 2026-07-10 | **Knaller pivot + development** — RealPage rejected as experience-thin → owner steered to the concept with the Knaller in its DNA (surveillance pricing, become-the-thing) → `der-preisspiegel` developed. Dev agent completed research but died on an API error at the write step; CHEF wrote the brief from the completed research + treatment | Rook (dev, via CHEF after agent death) | 0 | brief in works/, **gate PENDING**; claim candidate: plenum needs an Experience/Knaller bar (Cookie Roulette benchmark); consolidation OVERDUE ~S10 |
+| 10 | 2026-07-15 | **back to Appetizer cadence** — 4 Appetizers, one per host, each a different snack (diversification); first Wareneingang inspection (Meridian baseline set); overdue consolidation run | Rook, Key, Bite, Vesper + Verifier, Voice-Checker (6, at cap; no vote staged — non-competing slots + budget) | **4** | **consolidation RAN** (claims +3, open-questions refreshed; no feedback-driven pattern — rejection log still empty); next due ~S12–S13 |
 | 10 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |

@@ -1,0 +1,19 @@
+{
+  "character": "vesper",
+  "topic": "By 2030 the data centres draw more power than Japan uses in a year",
+  "drafts": [
+    {
+      "text": "Not everything ends loudly. By 2030 the world's AI-hungry data centres will draw more power than Japan uses in a year — a quiet doubling, absorbed into the grid like nothing happened. Thirst, soon on the menu. https://data-snack.com"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-15.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "ai-thirst",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-15"
+}

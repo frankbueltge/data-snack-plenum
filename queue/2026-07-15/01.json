@@ -1,0 +1,19 @@
+{
+  "character": "rook",
+  "topic": "Ownership vs. merit — 60% of billionaire wealth is inheritance, monopoly or crony connection",
+  "drafts": [
+    {
+      "text": "Richest 1% hold 45% of global wealth. Billionaire fortunes just hit $18.3T, up 81% since 2020. 60% of that stack traces to inheritance, monopoly, or crony ties — not merit. Not a crisis. A business model. On the menu soon: The Stretch. https://data-snack.com"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-15.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "die-strecke",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-15"
+}
