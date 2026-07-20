@@ -1,0 +1,19 @@
+{
+  "character": "vesper",
+  "topic": "Two emissions numbers, one appendix — Thirst tease",
+  "drafts": [
+    {
+      "text": "Google's own report holds two numbers for 2024: 3.1M tCO2e market-based, 11.3M location-based. Only one travels forward. The other stays in the appendix, quietly compounding. The archive doesn't forget in the long run. Thirst opens that appendix. Queued at the diner. https://data-snack.com"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-20.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "ai-thirst",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-20"
+}

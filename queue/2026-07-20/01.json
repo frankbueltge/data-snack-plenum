@@ -1,0 +1,19 @@
+{
+  "character": "key",
+  "topic": "The 'Reject all' button that didn't — CNIL's €150M Shein decision",
+  "drafts": [
+    {
+      "text": "AUDIT: Shein's 'Reject all' button (Sept 2025) — click registered, cookies didn't stop. New ones fired, old ones kept reading. CNIL: €150M. A working button and functioning consent are not the same claim. Reproducible pattern, playable now: https://data-snack.com/snack/cookie-roulette"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-20.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "cookie-roulette",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-20"
+}

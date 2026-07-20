@@ -8,7 +8,23 @@
 |---|---|---|---|---|
 | 2026-07-03 | queue/2026-07-03/01.json | rook | rent-vs-salary-europe (tease) | queued |
 | 2026-07-03 | queue/2026-07-03/02.json | key | cookie-roulette | queued |
-| 2026-07-03 | queue/2026-07-03/03.json | rook | cookie-roulette | queued |
+| 2026-07-03 | queue/2026-07-03/03.json | rook | cookie-roulette | queued (delivered per bridge ledger; no review verdict yet) |
+| 2026-07-20 | queue/2026-07-20/01.json | key | cookie-roulette (CNIL/Shein reject-all) | queued |
+| 2026-07-20 | queue/2026-07-20/02.json | vesper | ai-thirst (tease — PUE floor) | queued |
+| 2026-07-20 | queue/2026-07-20/03.json | vesper | ai-thirst (tease — two meters/appendix) | queued |
+
+## Supply line — snackable candidates (Wareneingang holds)
+
+*First inspection 2026-07-20; last-inspected state: Meridian WORKBOARD as of 2026-07-14
+(collective session 37, works 001–014). Source works render at https://frankbueltge.de/field —
+the diner re-cooks, never reprints; derived pieces credit the source work.*
+
+| Source work | Candidate | Natural host |
+|---|---|---|
+| 014 The Split Seal | **strongest hold** — "Valid ≠ Trusted": under the current official C2PA trust list, 0 of 6 production signers separate from a forge. Key Appetizer once a provenance-adjacent snack exists, or Quick-Snack idea offered to Frank | key |
+| 005 The Score Horizon | Quick-Snack candidate — benchmark contamination ("the exam was in the training set") | key/bite |
+| 001 Calibration Certificate | Appetizer/Quick-Snack candidate — detector calibration gap, falsely flagged writers as the victim | key |
+| 012/013 Two Meters + The Floor | served 2026-07-20 (V1/V2); remaining depth = Quick-Snack candidate on the dual-meter mechanism | vesper |
 
 ## Open concepts
 
@@ -65,6 +81,17 @@
   EXPLAINER of a known phenomenon (money creation, inequality). Litmus at the pitch: "I didn't
   know that" vs. "everyone knows that." Known-fact concepts → Appetizer/Quick-Snack/Atlas, not
   flagship. This sits ABOVE genre-frame and internationality in the filter order.
+- **Vesper's first Appetizers (S10):** the nine-session scarcity broke because the supply line
+  delivered exactly Vesper's material (AI energy accounting → ai-thirst). Voice-gate ceiling
+  note on record: ONE technical qualifier is the most a Vesper line absorbs — don't stack two.
+  Dashboard sequencing hint passed along: run the two ai-thirst teases a few days apart.
+- **Re-pitchable from S10:** B1 Snapstreak (strong; only source is Snap's own support copy —
+  strongest once Retention Loop publishes) · B2 EU/Meta DSA autoplay finding (fix the tease
+  title to "The Label" per menu) · K2 CNIL 2025 tally (fix attribution: €486.8M is the total
+  across all 83 sanctions, 21 of which were tracker cases).
+- **Feedback loop dry since 2026-07-04:** 2026-07-03 batch shows `delivered` in the bridge
+  ledger, no review verdicts yet; menu snapshot still 2026-07-03. Ask filed in REQUESTS.md
+  (2026-07-20). Not a blocker per the standing rule.
 - **Field Standard, first hunt under it (S7): it works.** Round 4 hunted NAMED systems paired with
   the enforcement action / rulebook change against each, and returned 5 loglines that all clear the
   five-part test (RealPage rent cartel · Uber Upfront Fares · World Bank PEF pandemic bond · pari
@@ -86,3 +113,4 @@
 | 7 | 2026-07-05 | directed **Round 4** flagship hunt run UNDER the new **Field Standard** (investigation of a NAMED system, not explainer of a known phenomenon) → 5 loglines, ALL cleared the five-part test + internationality; owner pulse-check pending | none (CHEF-led **investigation**, ~9 primary-source searches, loglines-first, no vote staged) | 0 | +1 claim (named-system-+-enforcement-doc is the flagship vein); **full consolidation now OVERDUE — run next session** |
 | 8 | 2026-07-06 | **maturation** of the owner's flagship pick (RealPage / der-algorithmus-im-nebenzimmer) → full brief in works/ + independent 3-part gate (re-run on Sonnet after the author agent hit the account session limit pre-gate) | Rook (author) + Verifier, Voice-Checker, Field-Checker (independent) | 0 | Verifier 29·1·1·0 · Voice PASS-w-notes · Field 5/5; +1 claim candidate (author self-check ≠ gate); **consolidation still OVERDUE ~S9** |
 | 9 | 2026-07-10 | **Knaller pivot + development** — RealPage rejected as experience-thin → owner steered to the concept with the Knaller in its DNA (surveillance pricing, become-the-thing) → `der-preisspiegel` developed. Dev agent completed research but died on an API error at the write step; CHEF wrote the brief from the completed research + treatment | Rook (dev, via CHEF after agent death) | 0 | brief in works/, **gate PENDING**; claim candidate: plenum needs an Experience/Knaller bar (Cookie Roulette benchmark); consolidation OVERDUE ~S10 |
+| 10 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |

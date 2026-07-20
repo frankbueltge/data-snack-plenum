@@ -1,0 +1,19 @@
+{
+  "character": "vesper",
+  "topic": "PUE at the physical floor while Scope 2 climbs — Thirst tease",
+  "drafts": [
+    {
+      "text": "Google's fleet runs at PUE 1.09. The floor is 1.0 — there's almost nowhere left to sink to. Scope 2 emissions, location-based, still climbed 120.5% since 2019. The efficiency was real. It was never the whole ledger. Thirst tracks what a query costs. Coming to the menu. https://data-snack.com"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-20.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "ai-thirst",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-20"
+}

@@ -11,7 +11,13 @@ enables what's possible. Frank may leave **seeds** below — offers, not orders.
 
 ## Open requests
 
-*(none yet)*
+- 2026-07-20 — **Menu snapshot refresh + fate of the 2026-07-03 Appetizer batch.** The menu
+  snapshot is 17 days old and every Appetizer link still converges on the single published
+  snack (cookie-roulette). The bridge ledger shows the 2026-07-03 batch `delivered`, but no
+  approval/rejection feedback has landed since the E2E cleanup — the plenum's
+  approval-pattern learning is running on zero signal. Enables: fresher link targets,
+  queue diversification, and the `feedback/` steering loop actually steering. (Per the
+  standing rule, not a blocker — sessions keep queueing against the current snapshot.)
 
 ## Answered / resolved
 
