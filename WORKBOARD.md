@@ -22,8 +22,10 @@
 
 ## Supply line — snackable candidates (Wareneingang holds)
 
-*First inspection 2026-07-20; last-inspected state: Meridian WORKBOARD as of 2026-07-14
-(collective session 37, works 001–014). Source works render at https://frankbueltge.de/field —
+*First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
+2026-07-20 with matching stamps. Last-inspected state: Meridian WORKBOARD as of 2026-07-14
+(collective session 37, works 001–014); re-checked 2026-07-20-b — unchanged, no new works,
+no corrections to propagate. Source works render at https://frankbueltge.de/field —
 the diner re-cooks, never reprints; derived pieces credit the source work.*
 
 | Source work | Candidate | Natural host |
@@ -62,6 +64,23 @@ the diner re-cooks, never reprints; derived pieces credit the source work.*
 
 *(running observations: what earns approvals, voice-drift notes, menu gaps)*
 
+- **RECOVERY (S13, 2026-07-20-b): two whole sessions were stranded and are now landed.** The
+  2026-07-08 and 2026-07-15 sessions committed to externally-assigned working branches that the
+  auto-land workflow (which watches `plenum/**` only) never picked up: 7 gate-passed Appetizers
+  never reached the bridge, and every later session ran without their minutes or memory. Their
+  texts were recovered byte-identical (gate verdicts therefore stand — no edit, no re-gate owed).
+  Corrections to the record this forces: the **first Wareneingang** was 2026-07-15, not
+  2026-07-20 (the 07-20 inspection independently produced matching stamps — a nice convergence
+  check); **Vesper's first Appetizer** was 2026-07-15/04, not the 07-20 pair; the 07-20 "first
+  slots since S1" framing was wrong. Standing rule from this: **a session's last act is
+  verifying its branch matches `plenum/**` — the landing path is part of the work.**
+- **Queue-overlap note for the dashboard (S13):** the recovery lands 7 Appetizers next to the
+  3 already queued 2026-07-20 → 13 now pending review. Overlaps to sequence or thin by taste:
+  THREE ai-thirst teases (07-15/04 IEA-Japan · 07-20/02 PUE floor · 07-20/03 two meters — all
+  fact-distinct, all gate-passed); TWO retention-loop teases (07-08/03 per-app minutes ·
+  07-15/03 daily aggregate); FOUR cookie-roulette posts (07-08 TC String + vanityfair reject-all
+  · 07-15 2.18% second layer · 07-20 Shein reject-all — vanityfair and Shein are both
+  CNIL reject-all fines, the closest pair). Flagged in REQUESTS.md; picking is Frank's call.
 - **Cadence restored (S10):** first Appetizers since S1 — 4 queued (rook/die-strecke, key/cookie-roulette, bite/retention-loop, vesper/ai-thirst), one per host, each teasing a DIFFERENT snack. The menu-gap (everything converging on cookie-roulette) was deliberately answered by diversification. Vesper convened (rare-appropriate: AI resource-draw endgame).
 - **Gate caught a new failure CLASS (S10):** not wrong numbers but *mischaracterised metrics* — Bite's "average scroll session" (2h23m is a daily aggregate, not one sitting) and Vesper's "the machines behind every answer" (945 TWh is TOTAL data-centre power, not AI-only). Both correct numbers, wrong framing. Distinct from the old "wrong-number/snippet" vector; the Verifier now checks *what a figure means*, not just its value.
 - **Voice-Checker caught a body/teaser coherence gap (S10):** Vesper's power stat vs the water-signalling "Thirst" dish name — advisory, not a voice failure. Recorded: match the finding's substance to the snack's promise.
@@ -137,6 +156,13 @@ the diner re-cooks, never reprints; derived pieces credit the source work.*
 
 ## Session bookkeeping
 
+*Numbering note (S13, 2026-07-20-b): sessions 2026-07-08 and 2026-07-15 were stranded on
+unlanded working branches and recovered in S13 — later sessions ran unaware of them, so the
+2026-07-10 and 2026-07-20 journals style themselves "Session 9" and "Session 10". The table
+below is the canonical chronological count; journal files keep their self-styled numbers
+verbatim (minutes are never rewritten). Thread labels written before S13 use the self-styled
+numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15 or 2026-07-20.*
+
 | # | Date | Agenda | Hosts convened | Queued | Consolidation? |
 |---|---|---|---|---|---|
 | 1 | 2026-07-03 | naming + 3 Appetizer slots + 1 concept | Rook, Key, Bite | 3 | no (due S2–S3) |
@@ -148,6 +174,7 @@ the diner re-cooks, never reprints; derived pieces credit the source work.*
 | 7 | 2026-07-05 | directed **Round 4** flagship hunt run UNDER the new **Field Standard** (investigation of a NAMED system, not explainer of a known phenomenon) → 5 loglines, ALL cleared the five-part test + internationality; owner pulse-check pending | none (CHEF-led **investigation**, ~9 primary-source searches, loglines-first, no vote staged) | 0 | +1 claim (named-system-+-enforcement-doc is the flagship vein); **full consolidation now OVERDUE — run next session** |
 | 8 | 2026-07-06 | **maturation** of the owner's flagship pick (RealPage / der-algorithmus-im-nebenzimmer) → full brief in works/ + independent 3-part gate (re-run on Sonnet after the author agent hit the account session limit pre-gate) | Rook (author) + Verifier, Voice-Checker, Field-Checker (independent) | 0 | Verifier 29·1·1·0 · Voice PASS-w-notes · Field 5/5; +1 claim candidate (author self-check ≠ gate); **consolidation still OVERDUE ~S9** |
 | 9 | 2026-07-08 | standing weekly Appetizers (lean two-host table) + **overdue full consolidation** | Key, Bite + Verifier, Voice-Checker | 3 | **yes (full)** — claims +4, discarded +3, open-questions + workboard refreshed; both gates re-run after 2 PASS-WITH-CORRECTION + 1 Voice FAIL, all 3 passed on rework; next consolidation ~S11–S12 |
-| 9 | 2026-07-10 | **Knaller pivot + development** — RealPage rejected as experience-thin → owner steered to the concept with the Knaller in its DNA (surveillance pricing, become-the-thing) → `der-preisspiegel` developed. Dev agent completed research but died on an API error at the write step; CHEF wrote the brief from the completed research + treatment | Rook (dev, via CHEF after agent death) | 0 | brief in works/, **gate PENDING**; claim candidate: plenum needs an Experience/Knaller bar (Cookie Roulette benchmark); consolidation OVERDUE ~S10 |
-| 10 | 2026-07-15 | **back to Appetizer cadence** — 4 Appetizers, one per host, each a different snack (diversification); first Wareneingang inspection (Meridian baseline set); overdue consolidation run | Rook, Key, Bite, Vesper + Verifier, Voice-Checker (6, at cap; no vote staged — non-competing slots + budget) | **4** | **consolidation RAN** (claims +3, open-questions refreshed; no feedback-driven pattern — rejection log still empty); next due ~S12–S13 |
-| 10 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |
+| 10 | 2026-07-10 | **Knaller pivot + development** — RealPage rejected as experience-thin → owner steered to the concept with the Knaller in its DNA (surveillance pricing, become-the-thing) → `der-preisspiegel` developed. Dev agent completed research but died on an API error at the write step; CHEF wrote the brief from the completed research + treatment | Rook (dev, via CHEF after agent death) | 0 | brief in works/, **gate PENDING**; claim candidate: plenum needs an Experience/Knaller bar (Cookie Roulette benchmark); consolidation OVERDUE ~S10 |
+| 11 | 2026-07-15 | **back to Appetizer cadence** — 4 Appetizers, one per host, each a different snack (diversification); first Wareneingang inspection (Meridian baseline set); overdue consolidation run | Rook, Key, Bite, Vesper + Verifier, Voice-Checker (6, at cap; no vote staged — non-competing slots + budget) | **4** | **consolidation RAN** (claims +3, open-questions refreshed; no feedback-driven pattern — rejection log still empty); next due ~S12–S13 |
+| 12 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |
+| 13 | 2026-07-20-b | **RECOVERY session (CHEF-led, no hosts)** — discovered sessions 2026-07-08 and 2026-07-15 stranded on unlanded branches (auto-land watches `plenum/**` only); merged both, reconciled workboard/memory, renumbered the session count, corrected the record ("first Wareneingang" and "Vesper's first Appetizers" were 2026-07-15, not 2026-07-20); Wareneingang re-check: collective still at session 37 / 2026-07-14, no new works, no corrections | none (0 role sub-agents — continuity work, no new/edited texts, no gate owed) | 0 new (**7 recovered**: 3× 2026-07-08, 4× 2026-07-15) | +1 claim (landing-path failure mode); no full pass (S11+S12 both ran one); next due ~S14–S15 |
