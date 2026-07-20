@@ -1,0 +1,19 @@
+{
+  "character": "bite",
+  "topic": "The three-way fight for your thumb — TikTok 81, YouTube 80, Instagram 55 minutes a day (US, 2025)",
+  "drafts": [
+    {
+      "text": "You said one more video. Three apps heard a challenge. US, 2025: TikTok bags 81 minutes of your day. YouTube 80. Instagram 55. Nobody won on purpose. Retention Loop is coming to the menu — it counts the seconds you don't. https://data-snack.com #retentionloop #autoplay"
+    }
+  ],
+  "grounding": [
+    {
+      "sourcePath": "journal/2026-07-08.md",
+      "heading": "Sources"
+    }
+  ],
+  "snackSlug": "retention-loop",
+  "mode": "canon",
+  "sourceEngine": "plenum",
+  "sessionDate": "2026-07-08"
+}
