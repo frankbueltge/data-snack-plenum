@@ -14,8 +14,10 @@
   wording in `memory/claims.md`, Cookie-Roulette-benchmark row. To be anchored only on the
   owner's word; not self-adopted.)
 - Should a Meridian-sourced piece carry an on-post credit, or is the site's "Lieferschein"
-  delivery note the only crediting? (No derived piece built yet — the 2026-07-20 V1/V2
-  Appetizers re-verified against primaries and credit Meridian in the journal only; the
-  first derived Quick-Snack or concept build forces the answer.)
+  delivery note the only crediting? (Now concrete: the first derived concept,
+  `works/valid-plus-untrusted.md` (S14), proposes an on-page credit line placed under the
+  trust-list toggle, folding in Meridian's load-bearing caveat #5 per the collective's
+  `downstream-commitments.md` equal-prominence condition. Frank's word on the credit style
+  decides at build time.)
 - Menu snapshot is dated 2026-07-03 — are Thirst/The Stretch/Retention Loop/The Label still
   `queued`, and has anything new published? (Requested refresh in `REQUESTS.md`, 2026-07-20.)

@@ -23,14 +23,16 @@
 ## Supply line — snackable candidates (Wareneingang holds)
 
 *First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
-2026-07-20 with matching stamps. Last-inspected state: Meridian WORKBOARD as of 2026-07-14
-(collective session 37, works 001–014); re-checked 2026-07-20-b — unchanged, no new works,
-no corrections to propagate. Source works render at https://frankbueltge.de/field —
-the diner re-cooks, never reprints; derived pieces credit the source work.*
+2026-07-20 with matching stamps. **Last-inspected state (S14, 2026-07-22): Meridian WORKBOARD
+as of collective session 43, 2026-07-17 — works 001–015** (new since previous mark: 015
+"Comparable With Humans", stamped below; no revisions to 001–014, no corrections to
+propagate). Source works render at https://frankbueltge.de/field — the diner re-cooks,
+never reprints; derived pieces credit the source work.*
 
 | Source work | Candidate | Natural host |
 |---|---|---|
-| 014 The Split Seal | **strongest hold** — "Valid ≠ Trusted": under the current official C2PA trust list, 0 of 6 production signers separate from a forge. Key Appetizer once a provenance-adjacent snack exists, or Quick-Snack idea offered to Frank | key |
+| 014 The Split Seal | **✅ MATURED S14 (2026-07-22)** → `works/valid-plus-untrusted.md` (full gate; see Open concepts) | key |
+| 015 Comparable With Humans | **new hold (S14)** — the automated peer-reviewer's "comparable with humans (69% vs 66%)" decomposed: decision-recovery axis vs. a differently-sourced human bar. Quick-Snack candidate: "the exam grader graded itself against the bar it picked" | key (bite possible) |
 | 005 The Score Horizon | Quick-Snack candidate — benchmark contamination ("the exam was in the training set") | key/bite |
 | 001 Calibration Certificate | Appetizer/Quick-Snack candidate — detector calibration gap, falsely flagged writers as the victim | key |
 | 012/013 Two Meters + The Floor | served 2026-07-20 (V1/V2); remaining depth = Quick-Snack candidate on the dual-meter mechanism | vesper |
@@ -39,6 +41,7 @@ the diner re-cooks, never reprints; derived pieces credit the source work.*
 
 | Slug | Phase (proposed → building → matured/discarded) | Suited host | One-liner |
 |---|---|---|---|
+| **valid-plus-untrusted** (Valid + Untrusted) — C2PA trust-list | **matured (in works/), offered as MID-SIZE/QUICK-SNACK** — graduated S14 (2026-07-22) after full gate: Verifier final PASS 19·5·0·0 (0 fabrications; author-objection round — Key refused a pre-cleared unverified superlative, cut it), Voice PASS, Field-Checker 3/5 (mid-size grade; flagship upgrade path: own re-run of a validation subset + one documented named victim). Derived from Meridian 014 "The Split Seal" — first derived concept; proposes an on-page Meridian credit line | key | seven seals, one forge, one toggle: under the trust list the standard recommends today, every tile reads identical — the only list that separates real from forge is the one they froze |
 | the-auction-you-never-entered | **matured (in works/)** — graduated S2 after full gate (Verifier PASS, Voice PASS) | key | RTB: your data broadcast to hundreds of companies per page load — you are the lot, not the bidder |
 | one-more-scroll-der-sog | **matured (in works/)** — graduated S3 after full gate (Verifier 10 PASS + 3 corrected, Voice PASS after one-liner rework); directed seed from Frank, live | bite | the feed that measures you while you scroll — you meant to leave four scrolls ago; The Feed logged that too |
 | rent-eats-first-die-miete-isst-zuerst | **matured (in works/), owner-parked as mid-size** — graduated S4 after full gate; owner verdict 2026-07-05: not flagship material („netter Appetizer/kleiner Snack"); brief stays valid for a later mid-size build | rook | 31 plates are your month; an itemized fork is always one believable frame faster — until, in Lisbon, it eats a day that does not exist |
@@ -178,3 +181,4 @@ numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15
 | 11 | 2026-07-15 | **back to Appetizer cadence** — 4 Appetizers, one per host, each a different snack (diversification); first Wareneingang inspection (Meridian baseline set); overdue consolidation run | Rook, Key, Bite, Vesper + Verifier, Voice-Checker (6, at cap; no vote staged — non-competing slots + budget) | **4** | **consolidation RAN** (claims +3, open-questions refreshed; no feedback-driven pattern — rejection log still empty); next due ~S12–S13 |
 | 12 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |
 | 13 | 2026-07-20-b | **RECOVERY session (CHEF-led, no hosts)** — discovered sessions 2026-07-08 and 2026-07-15 stranded on unlanded branches (auto-land watches `plenum/**` only); merged both, reconciled workboard/memory, renumbered the session count, corrected the record ("first Wareneingang" and "Vesper's first Appetizers" were 2026-07-15, not 2026-07-20); Wareneingang re-check: collective still at session 37 / 2026-07-14, no new works, no corrections | none (0 role sub-agents — continuity work, no new/edited texts, no gate owed) | 0 new (**7 recovered**: 3× 2026-07-08, 4× 2026-07-15) | +1 claim (landing-path failure mode); no full pass (S11+S12 both ran one); next due ~S14–S15 |
+| 14 | 2026-07-22 | **concept session** — no new Appetizers (13 pending, zero feedback; documented self-decision) · Wareneingang: Meridian 015 stamped, mark advanced to collective session 43 · Meridian 014 "Split Seal" matured → `works/valid-plus-untrusted.md` through the full 3-specialist gate incl. an author-objection round | Key + Verifier, Voice-Checker, Field-Checker (4) | 0 | light inline (+2 claims: parked-domain source vector; author-objection precedent); full pass due ~S15–S16 |
