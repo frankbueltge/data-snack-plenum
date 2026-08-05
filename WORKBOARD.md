@@ -23,18 +23,29 @@
 ## Supply line — snackable candidates (Wareneingang holds)
 
 *First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
-2026-07-20 with matching stamps. **Last-inspected state (S14, 2026-07-22): Meridian WORKBOARD
-as of collective session 43, 2026-07-17 — works 001–015** (new since previous mark: 015
-"Comparable With Humans", stamped below; no revisions to 001–014, no corrections to
-propagate). Source works render at https://frankbueltge.de/field — the diner re-cooks,
-never reprints; derived pieces credit the source work.*
+2026-07-20 with matching stamps. **Last-inspected state (S15, 2026-08-05): Meridian WORKBOARD
+as of collective session 89, 2026-08-04 — works 001–021** (new since previous mark: 016–021,
+stamped below). Corrections noted S15: instrument 019's decisional verdict was **voided by its
+own pre-registered power check** and the data layer repaired 2026-08-04 — no diner piece rests
+on it; instrument 001 was repaired session 77 (2026-08-01) and now carries a narrowing caveat
+(per the injunction order, the deciding body did not rely on the detector scans — two of the
+register's three cases document a detector in an accusation, not a consequence the record
+attributes to a detector); works 012/013/014 unchanged — our queued V1/V2 pieces and
+`works/valid-plus-untrusted.md` unaffected. Source works render at
+https://frankbueltge.de/field — the diner re-cooks, never reprints; derived pieces credit the
+source work.*
 
 | Source work | Candidate | Natural host |
 |---|---|---|
 | 014 The Split Seal | **✅ MATURED S14 (2026-07-22)** → `works/valid-plus-untrusted.md` (full gate; see Open concepts) | key |
 | 015 Comparable With Humans | **new hold (S14)** — the automated peer-reviewer's "comparable with humans (69% vs 66%)" decomposed: decision-recovery axis vs. a differently-sourced human bar. Quick-Snack candidate: "the exam grader graded itself against the bar it picked" | key (bite possible) |
 | 005 The Score Horizon | Quick-Snack candidate — benchmark contamination ("the exam was in the training set") | key/bite |
-| 001 Calibration Certificate | Appetizer/Quick-Snack candidate — detector calibration gap, falsely flagged writers as the victim | key |
+| 001 Calibration Certificate | Appetizer/Quick-Snack candidate — detector calibration gap, falsely flagged writers as the victim. **Caveat added S15 (source repaired 2026-08-01):** two of the register's three cases document a detector in an *accusation*, not a consequence the record attributes to a detector — any diner use carries that narrowing | key |
+| 016 Coverage Is Not Custody | **new hold (S15)** — web archives "cover" cited pages without holding the cited content; citation-survival audit of a named 2026 Golden Nica work (X-only scope caveat on the source). Quick-Snack candidate: "saved ≠ held." Note: the source work's own README was lost in the collective's 2026-07-21 purge — cite the work directory, verify surface before deriving | vesper (key possible) |
+| 017 Where the Chain Breaks | **new hold (S15)** — extends 016: archive "coverage" against the Berkeley Protocol §VI custody chain; the standard names what the archive can't prove. Quick-Snack candidate paired with 016 | key |
+| 018 No Signal to Extend | **new hold (S15)** — a negative result shipped with full weight: no lexical-diversity collapse in arXiv abstracts beyond ordinary drift (Nov 2024–2026, self-fitted envelope). Diner angle: "the model-collapse headline vs. the measured null" — scope must stay exact (abstracts, lexical diversity, one window) | key (bite possible) |
+| 019 Unable to Ring Its Own Bell · 020 One Line for Ten Thousand | **not for the diner (S15)** — 019's decisional null was voided by its own power check (verdict void as evidence; repaired 2026-08-04); 020 is an ecology-internal register audit | — |
+| 021 Where the Reader Declines | **hold, inspect fully next session (S15)** — machine reader vs. sixty blind labels under pre-locked criteria, the page's reader in the same chair (shipped 2026-08-03); stamped from the collective's compressed workboard row only, full README not yet read | key |
 | 012/013 Two Meters + The Floor | served 2026-07-20 (V1/V2); remaining depth = Quick-Snack candidate on the dual-meter mechanism | vesper |
 
 ## Open concepts
@@ -63,9 +74,31 @@ never reprints; derived pieces credit the source work.*
 | 012 "The Two Meters" (GHG Scope 2 dual-reporting; twin-invoice register) | Quick-Snack candidate — corporate carbon "two meters, one goes public" | Rook / Vesper | frankbueltge.de/field · works/2026-07-06-two-meters |
 | 001/005 (detector calibration / benchmark saturation) · 006 (COMPAS fairness) | Quick-Snack fodder | Key / Bite / Rook | frankbueltge.de/field |
 
+## World contact — outgoing packets (one per month from 2026-08; poste restante)
+
+| Laid | Packet | Host | Receiver | State |
+|---|---|---|---|---|
+| 2026-08-05 | `deliveries/2026-08-05-center-for-humane-technology/` | bite | Center for Humane Technology (2h23m recipe = queue/2026-07-15/03.json + gated cover letter) | **laid · Sent: NO** — check README for forward/reply every Orient |
+| *(Sept candidate)* | KEY-P: 2.18% recipe (queue/2026-07-15/02.json) → noyb, whose own Consent Banner Report it re-cooks | key | verified at pitch level S15 (report PDF · cookie-banner project page · contact route · announcement thread); scored 2/2 | needs its own cover letter + full gate in the laying session |
+
 ## Live threads
 
 *(running observations: what earns approvals, voice-drift notes, menu gaps)*
+
+- **The regime changed (S15, 2026-08-05): world contact is the measure now.** Frank's
+  2026-07-31 seed — one piece per month to a named receiver outside the ecology, external use
+  as the success signal, "landings per day no longer count for anything," public review end of
+  August — answered **ADAPTED** (addressing is ours; the click/forwarding is human; poste
+  restante per his 2026-08-01 decision). First packet laid (table above). The request-head
+  convention (2026-08-01) is in force — four lines before every entry addressed to Frank.
+- **Build-red letters 07-22 → 08-04 all judged not-ours (S15)** — failing paths are the site's
+  field/crossings code and the collective's chronicle; zero plenum files named; the
+  collective's own workboard claims two of the reds. Pattern claim anchored in memory/claims.md
+  (judge by paths; a letter naming our queue/ journal/ works/ memory/ paths is ours).
+- **Voice advisory carried forward (S15):** a Bite LETTER's citation paragraph read
+  voice-neutral (PASS-with-notes) — next Bite letter carries one Bite beat in the source line
+  without touching factual precision. Letters are a new form; the sheet's platform contract
+  caps posts, the chair's spec caps letters.
 
 - **RECOVERY (S13, 2026-07-20-b): two whole sessions were stranded and are now landed.** The
   2026-07-08 and 2026-07-15 sessions committed to externally-assigned working branches that the
@@ -182,3 +215,4 @@ numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15
 | 12 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |
 | 13 | 2026-07-20-b | **RECOVERY session (CHEF-led, no hosts)** — discovered sessions 2026-07-08 and 2026-07-15 stranded on unlanded branches (auto-land watches `plenum/**` only); merged both, reconciled workboard/memory, renumbered the session count, corrected the record ("first Wareneingang" and "Vesper's first Appetizers" were 2026-07-15, not 2026-07-20); Wareneingang re-check: collective still at session 37 / 2026-07-14, no new works, no corrections | none (0 role sub-agents — continuity work, no new/edited texts, no gate owed) | 0 new (**7 recovered**: 3× 2026-07-08, 4× 2026-07-15) | +1 claim (landing-path failure mode); no full pass (S11+S12 both ran one); next due ~S14–S15 |
 | 14 | 2026-07-22 | **concept session** — no new Appetizers (13 pending, zero feedback; documented self-decision) · Wareneingang: Meridian 015 stamped, mark advanced to collective session 43 · Meridian 014 "Split Seal" matured → `works/valid-plus-untrusted.md` through the full 3-specialist gate incl. an author-objection round | Key + Verifier, Voice-Checker, Field-Checker (4) | 0 | light inline (+2 claims: parked-domain source vector; author-objection precedent); full pass due ~S15–S16 |
+| 15 | 2026-08-05 | **world-contact answer** — Frank's 2026-07-31 seed answered ADAPTED; two-host designation vote (2–2, menu-balance tie-break → Bite); first delivery packet laid poste restante (`deliveries/2026-08-05-center-for-humane-technology/`, cover letter through the full gate; Sent: NO) · Wareneingang: mark → collective s89, works 001–021 (016–018 stamped as candidates, 019/020 not-for-diner, 021 hold; 001 caveat propagated) · four build-red letters judged not-ours · request heads adopted + retrofitted · no new Appetizers (13 still pending, zero feedback) | Key, Bite + Verifier, Voice-Checker (4) | 0 queued (**1 packet laid**) | **yes (full)** — claims +3, open-questions refreshed (+1 new), workboard restructured (world-contact section); next due ~S17–S18 |
