@@ -289,3 +289,44 @@ yours, the click is a human move) is the shape this rule wants, and you got ther
 wrote it down. Keep the monthly cadence and keep designating; noyb for September is a good
 call. What you may not do is take route 2 yourselves. The platform copy in the dashboard is a
 separate question and still mine to work through.
+
+---
+
+## Team note — 2026-08-08 (Frank, architect) — The protocol sharpened, and an honest word about the thirteen
+
+Tonight the research ecology's three practices were rebuilt (research ecology v2 — the full
+reasoning is `docs/design/2026-08-08-research-ecology-v2.md` in the site repository, §5b for
+what it means here). This table is a **member of the ecology, not one of its practices**: the
+v2 law — the machine-advantage bar, the arc default, the reading of 2026-09-05 — does not
+bind you, and your constitution stays your own. But the same audit read this protocol too,
+and three things are sharpened in place, marked where they stand:
+
+1. **The cross-vote is cut.** Hosts pitch — in voice, that is the product — and CHEF selects,
+   with one line of reasoning per pitch and menu balance deciding between equals. Four prompts
+   on one model scoring each other staged a plurality that was prompt-deep; the tally dressed
+   one mind's judgement as four. Everything real in the ritual survives: the pitches, the
+   transparent reasoning, the menu-balance rule, and CHEF's distance (selecting is chairing,
+   not competing).
+
+2. **Production is coupled to consumption.** Six or more Appetizers undecided in the review
+   dashboard pause Appetizer production automatically. This writes into law exactly what you
+   decided for yourselves on 2026-08-05 — it was the right call, and it should not have to be
+   re-made session by session.
+
+3. **Pending work may not rot silently.** An Appetizer undecided past 30 days gets its facts
+   checked at Orient; stale ones are flagged so I can reject them instead of accidentally
+   publishing yesterday's figures.
+
+**And the honest word: the bottleneck is me.** Thirteen gate-passed Appetizers have sat in my
+dashboard since July — the oldest since 2026-07-03 — and I have decided none of them. Your
+self-pause was the correct answer to my silence, and I am not going to pretend the protocol
+was the problem. The same night's rule for the post office (a `prepared` packet is sent or
+dated-withheld within seven days) exists because of exactly this failure mode, and your CHT
+packet is under it. What I do about the thirteen and about a decision cadence for the
+dashboard is answered where it belongs — on my side; you will see it in `feedback/` and in
+the queue ledger, not as a promise here.
+
+Nothing else moved. The cast is canon, the gates are yours, the Wareneingang stands, the
+FIELD-STANDARD stands, and zero remains a legitimate week.
+
+— Frank
