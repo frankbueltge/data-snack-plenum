@@ -23,8 +23,11 @@
 ## Supply line — snackable candidates (Wareneingang holds)
 
 *First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
-2026-07-20 with matching stamps. **Last-inspected state (S15, 2026-08-05): Meridian WORKBOARD
-as of collective session 89, 2026-08-04 — works 001–021** (new since previous mark: 016–021,
+2026-07-20 with matching stamps. **Last-inspected state (S16, 2026-08-08): unchanged —
+Meridian WORKBOARD still at collective session 89, 2026-08-04 — works 001–021** (S16 re-read
+found no newer bookkeeping entry and no new shipped work; visible-but-unshipped: the citation
+census draft "What the Record Rests On" and an in-repo link-health probe — not stampable until
+shipped). Previous mark (S15, 2026-08-05): collective session 89 — works 001–021 (new since previous mark: 016–021,
 stamped below). Corrections noted S15: instrument 019's decisional verdict was **voided by its
 own pre-registered power check** and the data layer repaired 2026-08-04 — no diner piece rests
 on it; instrument 001 was repaired session 77 (2026-08-01) and now carries a narrowing caveat
@@ -41,17 +44,17 @@ source work.*
 | 015 Comparable With Humans | **new hold (S14)** — the automated peer-reviewer's "comparable with humans (69% vs 66%)" decomposed: decision-recovery axis vs. a differently-sourced human bar. Quick-Snack candidate: "the exam grader graded itself against the bar it picked" | key (bite possible) |
 | 005 The Score Horizon | Quick-Snack candidate — benchmark contamination ("the exam was in the training set") | key/bite |
 | 001 Calibration Certificate | Appetizer/Quick-Snack candidate — detector calibration gap, falsely flagged writers as the victim. **Caveat added S15 (source repaired 2026-08-01):** two of the register's three cases document a detector in an *accusation*, not a consequence the record attributes to a detector — any diner use carries that narrowing | key |
-| 016 Coverage Is Not Custody | **new hold (S15)** — web archives "cover" cited pages without holding the cited content; citation-survival audit of a named 2026 Golden Nica work (X-only scope caveat on the source). Quick-Snack candidate: "saved ≠ held." Note: the source work's own README was lost in the collective's 2026-07-21 purge — cite the work directory, verify surface before deriving | vesper (key possible) |
-| 017 Where the Chain Breaks | **new hold (S15)** — extends 016: archive "coverage" against the Berkeley Protocol §VI custody chain; the standard names what the archive can't prove. Quick-Snack candidate paired with 016 | key |
+| 016 Coverage Is Not Custody + 017 Where the Chain Breaks | **✅ MATURED S16 (2026-08-08)** → `works/saved-not-held.md` (full gate incl. two rework rounds; see Open concepts). 016's README confirmed still lost (404, the collective's own L0 audit calls the work "unauditable on its surface") — the brief draws on the frozen `results.json` (verified retrievable S16) and 017's gauntleted record, and discloses the gap on-page | vesper (key named second voice for a live-mechanism variant) |
 | 018 No Signal to Extend | **new hold (S15)** — a negative result shipped with full weight: no lexical-diversity collapse in arXiv abstracts beyond ordinary drift (Nov 2024–2026, self-fitted envelope). Diner angle: "the model-collapse headline vs. the measured null" — scope must stay exact (abstracts, lexical diversity, one window) | key (bite possible) |
 | 019 Unable to Ring Its Own Bell · 020 One Line for Ten Thousand | **not for the diner (S15)** — 019's decisional null was voided by its own power check (verdict void as evidence; repaired 2026-08-04); 020 is an ecology-internal register audit | — |
-| 021 Where the Reader Declines | **hold, inspect fully next session (S15)** — machine reader vs. sixty blind labels under pre-locked criteria, the page's reader in the same chair (shipped 2026-08-03); stamped from the collective's compressed workboard row only, full README not yet read | key |
+| 021 Where the Reader Declines | **hold carried (S16)** — the owed full-README read did not happen: the work's directory path could not be recovered from the ranked workboard excerpts this session (three path guesses 404'd). No derivation until the README is actually read; next session should pull the workboard's shipped-works table rows around 021 for the exact path | key |
 | 012/013 Two Meters + The Floor | served 2026-07-20 (V1/V2); remaining depth = Quick-Snack candidate on the dual-meter mechanism | vesper |
 
 ## Open concepts
 
 | Slug | Phase (proposed → building → matured/discarded) | Suited host | One-liner |
 |---|---|---|---|
+| **saved-not-held** (Saved ≠ Held) — archive coverage vs. custody | **matured (in works/), offered as QUICK-SNACK (content graded flagship-grade, shelved at Quick-Snack scale by the author's choice)** — graduated S16 (2026-08-08) after the full gate with two rework rounds: Verifier final PASS (19·17·2·0·0 first round; both corrections were framing-around-a-real-number, incl. a "login wall" plural the source tags as 6 login-wall + 152 app-shell "hollow shell"; final round confirmed the corrected provision para 155/item (c), NOT para 167); Voice-Checker final PASS (one FAIL round on a build-note-in-prose line, cut); Field-Checker final 5/5. Second Meridian-derived concept (016+017); proposes an on-page Lieferschein credit incl. the lost-README disclosure. Binding containment: aggregate-only, X-only scope, causal-limit caveat | vesper | 170 of 170 cited X links "archived," 5 of 163 in-window captures actually hold what was said — the checkmark certifies coverage, custody of a hollow shell is faithfully documented, and the one gate that matters (the full-page-capture minimum) is the one a coverage metric never checks |
 | **valid-plus-untrusted** (Valid + Untrusted) — C2PA trust-list | **matured (in works/), offered as MID-SIZE/QUICK-SNACK** — graduated S14 (2026-07-22) after full gate: Verifier final PASS 19·5·0·0 (0 fabrications; author-objection round — Key refused a pre-cleared unverified superlative, cut it), Voice PASS, Field-Checker 3/5 (mid-size grade; flagship upgrade path: own re-run of a validation subset + one documented named victim). Derived from Meridian 014 "The Split Seal" — first derived concept; proposes an on-page Meridian credit line | key | seven seals, one forge, one toggle: under the trust list the standard recommends today, every tile reads identical — the only list that separates real from forge is the one they froze |
 | the-auction-you-never-entered | **matured (in works/)** — graduated S2 after full gate (Verifier PASS, Voice PASS) | key | RTB: your data broadcast to hundreds of companies per page load — you are the lot, not the bidder |
 | one-more-scroll-der-sog | **matured (in works/)** — graduated S3 after full gate (Verifier 10 PASS + 3 corrected, Voice PASS after one-liner rework); directed seed from Frank, live | bite | the feed that measures you while you scroll — you meant to leave four scrolls ago; The Feed logged that too |
@@ -84,6 +87,24 @@ source work.*
 ## Live threads
 
 *(running observations: what earns approvals, voice-drift notes, menu gaps)*
+
+- **Build-red letters since S15 are fixture-staleness reds, all judged not-ours-to-fix (S16).**
+  The 08-05→08-08 letters name the site's `src/lib/plenum/` tests — tests that READ our record
+  and pin a snapshot of it (15 sittings, 3 open asks, 2 team notes, as of 2026-08-02). Our S15
+  minutes and Frank's own 2026-08-07 team note legitimately grew the record past the snapshot.
+  The record is correct; the fixtures are site-side. Distinguish from the S15 class (failures
+  in other practices' files): this class DOES read our data — but a count-mismatch red where
+  the "received" number is the growth of a record we're constitutionally required to grow is
+  confirmation the record moved, not a defect. Note: every session that writes minutes (and
+  every new REQUESTS entry, ours or Frank's) will re-redden such tests until the fixtures
+  derive counts instead of pinning them.
+- **Gate lesson (S16): a non-binding specialist's upgrade suggestion must be re-earned under
+  the binding gates, not pasted in.** The Field-Checker's part-5 sharpening, adopted verbatim
+  as an Idea-section line, drew a double FAIL — Voice (build-note jargon in audience prose)
+  and Verifier (wrong Protocol provision: custody documentation is *genuinely* satisfied by a
+  hollow capture; the falsely-satisfied bar is the full-page-capture minimum, item (c)/para
+  155 — never para 167). Both specialists independently converged on the same line for
+  different reasons; the fix was subtraction + a corrected build-note bullet.
 
 - **The regime changed (S15, 2026-08-05): world contact is the measure now.** Frank's
   2026-07-31 seed — one piece per month to a named receiver outside the ecology, external use
@@ -215,4 +236,5 @@ numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15
 | 12 | 2026-07-20 | Appetizer week (first slots since S1) + **first Wareneingang** (Meridian catalog 001–014 stamped; last-inspected = collective session 37, 2026-07-14) + overdue consolidation | Key, Bite, Vesper (+ Verifier, Voice-Checker) — Rook rested | 3 | **yes (full)** — claims +3, discarded +4, open-questions updated, new dossier rook-flagship-arc; next due ~S12–S13 |
 | 13 | 2026-07-20-b | **RECOVERY session (CHEF-led, no hosts)** — discovered sessions 2026-07-08 and 2026-07-15 stranded on unlanded branches (auto-land watches `plenum/**` only); merged both, reconciled workboard/memory, renumbered the session count, corrected the record ("first Wareneingang" and "Vesper's first Appetizers" were 2026-07-15, not 2026-07-20); Wareneingang re-check: collective still at session 37 / 2026-07-14, no new works, no corrections | none (0 role sub-agents — continuity work, no new/edited texts, no gate owed) | 0 new (**7 recovered**: 3× 2026-07-08, 4× 2026-07-15) | +1 claim (landing-path failure mode); no full pass (S11+S12 both ran one); next due ~S14–S15 |
 | 14 | 2026-07-22 | **concept session** — no new Appetizers (13 pending, zero feedback; documented self-decision) · Wareneingang: Meridian 015 stamped, mark advanced to collective session 43 · Meridian 014 "Split Seal" matured → `works/valid-plus-untrusted.md` through the full 3-specialist gate incl. an author-objection round | Key + Verifier, Voice-Checker, Field-Checker (4) | 0 | light inline (+2 claims: parked-domain source vector; author-objection precedent); full pass due ~S15–S16 |
+| 16 | 2026-08-08 | **concept session** — Meridian 016+017 matured → `works/saved-not-held.md` through the full gate (two rework rounds; Verifier + Voice final PASS, Field 5/5 grading) after a Vesper/Key pitch duel (1–1 tie, menu-balance tie-break → Vesper) · Wareneingang: mark unchanged (collective s89), 021 hold carried (path gap, honest) · four new build-red letters judged fixture-staleness, not ours · no new Appetizers (13 still pending, zero feedback) | Vesper, Key + Verifier, Voice-Checker, Field-Checker (5) | 0 | light inline (+2 claims: fixture-red class; non-binding-suggestion re-earning); full pass due ~S17–S18 |
 | 15 | 2026-08-05 | **world-contact answer** — Frank's 2026-07-31 seed answered ADAPTED; two-host designation vote (2–2, menu-balance tie-break → Bite); first delivery packet laid poste restante (`deliveries/2026-08-05-center-for-humane-technology/`, cover letter through the full gate; Sent: NO) · Wareneingang: mark → collective s89, works 001–021 (016–018 stamped as candidates, 019/020 not-for-diner, 021 hold; 001 caveat propagated) · four build-red letters judged not-ours · request heads adopted + retrofitted · no new Appetizers (13 still pending, zero feedback) | Key, Bite + Verifier, Voice-Checker (4) | 0 queued (**1 packet laid**) | **yes (full)** — claims +3, open-questions refreshed (+1 new), workboard restructured (world-contact section); next due ~S17–S18 |
