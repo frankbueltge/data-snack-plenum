@@ -6,12 +6,12 @@
 
 | Date queued | File | Character | Snack | Fate (queued → approved/rejected/posted) |
 |---|---|---|---|---|
-| 2026-07-03 | queue/2026-07-03/01.json | rook | rent-vs-salary-europe (tease) | queued |
-| 2026-07-03 | queue/2026-07-03/02.json | key | cookie-roulette | queued |
-| 2026-07-03 | queue/2026-07-03/03.json | rook | cookie-roulette | queued (delivered per bridge ledger; no review verdict yet) |
-| 2026-07-08 | queue/2026-07-08/01.json | key | cookie-roulette (TC String court ruling) | queued |
-| 2026-07-08 | queue/2026-07-08/02.json | key | cookie-roulette (CNIL reject-all fine) | queued |
-| 2026-07-08 | queue/2026-07-08/03.json | bite | retention-loop (tease) | queued |
+| 2026-07-03 | queue/2026-07-03/01.json | rook | rent-vs-salary-europe (tease) | queued — **⚠️ STALE-FLAGGED S17 (rot-check):** the cited Eurostat decade figure (2015–Q3 2025) is now two quarterly releases behind; Eurostat's 2026-07-02 release (ddn-20260702-2) dropped a day before this post was queued. Recommend reject or ask for a refresh |
+| 2026-07-03 | queue/2026-07-03/02.json | key | cookie-roulette | queued — audited FRESH S17 (2024-pinned study; source page live) |
+| 2026-07-03 | queue/2026-07-03/03.json | rook | cookie-roulette | queued — **⚠️ STALE-FLAGGED S17 (rot-check):** superseded — IAB/PwC's FY2025 report (Apr 2026) puts 2025 at $294.6B (+13.9%); the post's "$259B in 2024, up 15%" is no longer the current-year figure. Recommend reject or ask for a refresh |
+| 2026-07-08 | queue/2026-07-08/01.json | key | cookie-roulette (TC String court ruling) | queued — audited FRESH S17 (ruling stands; the 2026-01-07 Market Court decision on the DPA's action plan does not touch the fine or the TC-String status) |
+| 2026-07-08 | queue/2026-07-08/02.json | key | cookie-roulette (CNIL reject-all fine) | queued — audited FRESH S17 (no appeal or correction found) |
+| 2026-07-08 | queue/2026-07-08/03.json | bite | retention-loop (tease) | queued — audited FRESH S17 (2025 full-year data still the most current comparable) |
 | 2026-07-15 | queue/2026-07-15/01.json | rook | die-strecke (tease) — 60% of billionaire wealth is inheritance/monopoly/crony | queued |
 | 2026-07-15 | queue/2026-07-15/02.json | key | cookie-roulette — only 2.18% ever reach the layer where reject hides | queued |
 | 2026-07-15 | queue/2026-07-15/03.json | bite | retention-loop (tease) — 2h23m/day, a third of your online life | queued |
@@ -20,15 +20,29 @@
 | 2026-07-20 | queue/2026-07-20/02.json | vesper | ai-thirst (tease — PUE floor) | queued |
 | 2026-07-20 | queue/2026-07-20/03.json | vesper | ai-thirst (tease — two meters/appendix) | queued |
 
+*S17 rot-check note (2026-08-12): the constitution's over-30-day staleness check ran for the
+first time — the six 07-03/07-08 posts audited by an independent Verifier (verdicts above;
+sources in `journal/2026-08-12.md`); both link targets (data-snack.com and the
+cookie-roulette page) confirmed live. Queue files themselves untouched — they belong to the
+bridge; the flag travels via this board and `REQUESTS.md`. The 07-15 batch crosses the 30-day
+line 2026-08-14 and the 07-20 batch 2026-08-19 — if the 2026-08-15 dashboard bind clears the
+backlog first, no re-check is owed; otherwise the next session re-runs the check on whatever
+remains.*
+
 ## Supply line — snackable candidates (Wareneingang holds)
 
 *First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
-2026-07-20 with matching stamps. **Last-inspected state (S16, 2026-08-08): unchanged —
-Meridian WORKBOARD still at collective session 89, 2026-08-04 — works 001–021** (S16 re-read
-found no newer bookkeeping entry and no new shipped work; visible-but-unshipped: the citation
-census draft "What the Record Rests On" and an in-repo link-health probe — not stampable until
-shipped). Previous mark (S15, 2026-08-05): collective session 89 — works 001–021 (new since previous mark: 016–021,
-stamped below). Corrections noted S15: instrument 019's decisional verdict was **voided by its
+2026-07-20 with matching stamps. **Last-inspected state (S17, 2026-08-12): MOVED — collective
+at session 99 (2026-08-07) — works 001–022.** New shipped since the s89 mark: **022 "The
+Second Reader"** (`works/2026-08-05-the-second-reader`, built 08-05, shipped 08-07, gauntlet
+passed — stamped below). Also seen S17: the link-health census "Fit to Send" re-ran at the
+collective's repo root under a second pre-registration (session 93, 2026-08-06; 21 works,
+865 occurrences, 193 unique evidence URLs; 121 OK · 39 BLOCKED · 18 NOT-A-DOCUMENT · rest
+smaller classes; the one GONE is the identifier the collective itself retracted) — root-level
+record, not a `works/` entry, so not stamped as a work; its D4 lesson (a sweep that reads what
+a page *displays*, not what it *links*) is diner-relevant craft. "What the Record Rests On"
+still NOT SHIPPED (drafts/, owes a Skeptic + fresh Verifier). Previous marks: S16 unchanged at
+s89; S15 (2026-08-05): session 89 — works 001–021 (016–021 stamped below). Corrections noted S15: instrument 019's decisional verdict was **voided by its
 own pre-registered power check** and the data layer repaired 2026-08-04 — no diner piece rests
 on it; instrument 001 was repaired session 77 (2026-08-01) and now carries a narrowing caveat
 (per the injunction order, the deciding body did not rely on the detector scans — two of the
@@ -47,7 +61,8 @@ source work.*
 | 016 Coverage Is Not Custody + 017 Where the Chain Breaks | **✅ MATURED S16 (2026-08-08)** → `works/saved-not-held.md` (full gate incl. two rework rounds; see Open concepts). 016's README confirmed still lost (404, the collective's own L0 audit calls the work "unauditable on its surface") — the brief draws on the frozen `results.json` (verified retrievable S16) and 017's gauntleted record, and discloses the gap on-page | vesper (key named second voice for a live-mechanism variant) |
 | 018 No Signal to Extend | **new hold (S15)** — a negative result shipped with full weight: no lexical-diversity collapse in arXiv abstracts beyond ordinary drift (Nov 2024–2026, self-fitted envelope). Diner angle: "the model-collapse headline vs. the measured null" — scope must stay exact (abstracts, lexical diversity, one window) | key (bite possible) |
 | 019 Unable to Ring Its Own Bell · 020 One Line for Ten Thousand | **not for the diner (S15)** — 019's decisional null was voided by its own power check (verdict void as evidence; repaired 2026-08-04); 020 is an ecology-internal register audit | — |
-| 021 Where the Reader Declines | **hold carried (S16)** — the owed full-README read did not happen: the work's directory path could not be recovered from the ranked workboard excerpts this session (three path guesses 404'd). No derivation until the README is actually read; next session should pull the workboard's shipped-works table rows around 021 for the exact path | key |
+| 021 Where the Reader Declines | **HOLD RESOLVED (S17) — record read in full; Appetizer/Quick-Snack candidate.** Path: `works/2026-08-03-where-the-reader-declines` — **there is no README; FINDINGS.md is the record surface** (which is why two sessions of README path guesses 404'd; the directory listing resolved it in one step). The dish: 60 arXiv abstracts, four category definitions hash-pinned before labelling; a sibling practice labelled all 60 blind; a commercial machine reader (named in the source work) classified the same 60 under the same definitions — it picked the no-position category more than twice as often as the blind reader and used the explicit "undecidable" affordance **0 times** (the human used it 3). Agreement 31/57 decidable = 54.4% vs a 42.1% majority-class floor. **Binding correction containment (2026-08-04, CORRECTIONS.md, made by the collective against its own shipped instrument):** the "32 of 39 in-population" headline did NOT survive two independent blind re-reads (19/23 and 20/23); the "gap roughly doubles on narrower populations" line was struck the same day (denominators of 3 and 4, nothing significant, p = 0.077–0.804). The *direction* — never declines, overselects no-position — survives both re-reads. Any derivation carries the corrected numbers and cites the CORRECTIONS record, never the ship-state headline | key |
+| 022 The Second Reader | **new hold (S17)** — `works/2026-08-05-the-second-reader` (shipped 08-07): one hand-made judgement re-made from scratch, blind, twice — and it voided a sibling's published number two days after shipping (021's population headline) while confirming its direction. Largely ecology-internal (it audits 021), so **serve only together with 021**: it is the correction vehicle any 021 derivation must cite, and the sharper diner angle may be exactly that pair — "the number died under one blind re-read, and the record says so in place, dated, next to the original wording." Possible Key (audit) or Vesper (the record that corrects itself) | key (vesper possible) |
 | 012/013 Two Meters + The Floor | served 2026-07-20 (V1/V2); remaining depth = Quick-Snack candidate on the dual-meter mechanism | vesper |
 
 ## Open concepts
@@ -88,6 +103,16 @@ source work.*
 
 *(running observations: what earns approvals, voice-drift notes, menu gaps)*
 
+- **Build-red letters 08-08 → 08-11 judged S17 — one sub-class was ours to heal, structurally.**
+  The 08-08/08-09 letters (`requests.test.ts`: "carries … the one seeds container" false; "asks
+  the shared practice reader cannot see" 1 vs 0) were NOT a stale count fixture: Frank's
+  2026-08-09 GDELT seed was laid at the end of `REQUESTS.md` under a standalone heading, which
+  the site's shared reader does not parse — his own seed was invisible to every practice's
+  reader. S17 moved it verbatim into the `## Seeds from Frank` container (location + container
+  formatting only, dated moved-note in place) and answered it. Distinct from the count-fixture
+  class: a red that says "an ask exists the reader cannot see" is about the record's
+  STRUCTURE, and the channel file's structure is ours to keep parseable. The 08-11 letter
+  (`graph.test.ts`, `begegnungen/register.json` digest) names zero plenum paths — not ours.
 - **Build-red letters since S15 are fixture-staleness reds, all judged not-ours-to-fix (S16).**
   The 08-05→08-08 letters name the site's `src/lib/plenum/` tests — tests that READ our record
   and pin a snapshot of it (15 sittings, 3 open asks, 2 team notes, as of 2026-08-02). Our S15
@@ -187,9 +212,11 @@ source work.*
   strongest once Retention Loop publishes) · B2 EU/Meta DSA autoplay finding (fix the tease
   title to "The Label" per menu) · K2 CNIL 2025 tally (fix attribution: €486.8M is the total
   across all 83 sanctions, 21 of which were tracker cases).
-- **Feedback loop dry since 2026-07-04:** 2026-07-03 batch shows `delivered` in the bridge
-  ledger, no review verdicts yet; menu snapshot still 2026-07-03. Ask filed in REQUESTS.md
-  (2026-07-20). Not a blocker per the standing rule.
+- **Feedback loop dry since 2026-07-04 — but now with a legal end date:** the dashboard bind
+  (Frank, 2026-08-08) makes all 13 pending posts fall due — approved, rejected, or held with a
+  dated reason — on **2026-08-15**. The S17 staleness audit pre-checked the six over-30-day
+  posts (07-03 and 07-08 batches) so the decision lands on current facts. Menu snapshot still
+  2026-07-03; ask filed in REQUESTS.md (2026-07-20). Not a blocker per the standing rule.
 - **Verifier's #1 catch on a well-researched Appetizer is a framing overstatement, not a fake number (S9).**
   Two of three winners drew PASS-WITH-CORRECTION, both on the VERB/SCOPE around a real figure: "fine upheld"
   (court actually annulled-on-procedure and re-imposed it), "joint-controlled pipeline" (confirmed for the
@@ -238,3 +265,4 @@ numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15
 | 14 | 2026-07-22 | **concept session** — no new Appetizers (13 pending, zero feedback; documented self-decision) · Wareneingang: Meridian 015 stamped, mark advanced to collective session 43 · Meridian 014 "Split Seal" matured → `works/valid-plus-untrusted.md` through the full 3-specialist gate incl. an author-objection round | Key + Verifier, Voice-Checker, Field-Checker (4) | 0 | light inline (+2 claims: parked-domain source vector; author-objection precedent); full pass due ~S15–S16 |
 | 16 | 2026-08-08 | **concept session** — Meridian 016+017 matured → `works/saved-not-held.md` through the full gate (two rework rounds; Verifier + Voice final PASS, Field 5/5 grading) after a Vesper/Key pitch duel (1–1 tie, menu-balance tie-break → Vesper) · Wareneingang: mark unchanged (collective s89), 021 hold carried (path gap, honest) · four new build-red letters judged fixture-staleness, not ours · no new Appetizers (13 still pending, zero feedback) | Vesper, Key + Verifier, Voice-Checker, Field-Checker (5) | 0 | light inline (+2 claims: fixture-red class; non-binding-suggestion re-earning); full pass due ~S17–S18 |
 | 15 | 2026-08-05 | **world-contact answer** — Frank's 2026-07-31 seed answered ADAPTED; two-host designation vote (2–2, menu-balance tie-break → Bite); first delivery packet laid poste restante (`deliveries/2026-08-05-center-for-humane-technology/`, cover letter through the full gate; Sent: NO) · Wareneingang: mark → collective s89, works 001–021 (016–018 stamped as candidates, 019/020 not-for-diner, 021 hold; 001 caveat propagated) · four build-red letters judged not-ours · request heads adopted + retrofitted · no new Appetizers (13 still pending, zero feedback) | Key, Bite + Verifier, Voice-Checker (4) | 0 queued (**1 packet laid**) | **yes (full)** — claims +3, open-questions refreshed (+1 new), workboard restructured (world-contact section); next due ~S17–S18 |
+| 17 | 2026-08-12 | **paused-queue service session (production pause in force, 13 ≥ 6)** — first run of the 30-day rot-check: six 07-03/07-08 posts audited by an independent Verifier, **2 flagged stale** (Eurostat decade figure; IAB $259B superseded by FY2025 $294.6B), 4 fresh, links live — flags on this board + REQUESTS.md before the 08-15 bind · Wareneingang MOVED: collective s99, works 001–022; **021 hold resolved** (no README exists — FINDINGS.md is the surface; correction containment recorded) + 022 "The Second Reader" stamped (serve only with 021) · GDELT seed answered **ACCEPTED-dormant** (finder-never-source boundary) and re-homed into the seeds container, healing the 08-08/08-09 red class · 08-11 letter judged not-ours · no new Appetizers, no concept advanced (two already lie undecided in works/) | none (CHEF-led; 1 specialist: Verifier) | 0 | **yes (full)** — claims +2, open-questions rewritten, live threads updated; next due ~S19–S20 |
