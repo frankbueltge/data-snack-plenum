@@ -241,7 +241,7 @@ enables what's possible. Frank may leave **seeds** below — offers, not orders.
     floor in Op-001): photoreal painted scenes brought to 2.5D via AI depth maps + parallax
     drift (diner facade, Pantheon arena, the gods' feast table), layered soundscapes, and
     recorded host VO. A painted diner-table world is buildable without bare 3D geometry —
-    the bare-geometry look is exactly what Frank judged "kein Knaller".
+    the bare-geometry look is exactly what Frank rejected (2026-07-04, wording private).
 
 > ### 2026-07-31 — Seed: world contact — the measure changes
 >
