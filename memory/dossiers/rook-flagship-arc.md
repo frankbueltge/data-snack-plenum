@@ -6,7 +6,8 @@ consolidation passes; the journals stay the ground truth.*
 ## The arc in one paragraph
 
 Frank asked for Rook's international blockbuster. The table learned, in order: a fully gated
-brief can still die at the owner gate (S4, rent — "netter Appetizer"); genre frame beats
+brief can still die at the owner gate (S4, rent — downgraded to a pleasant appetizer;
+2026-07-05, wording private); genre frame beats
 mechanic (S5, the kitchen-caper Cum-Ex pick); INTERNATIONAL is a hard structural gate (S5→S6,
 Cum-Ex parked after a full build — a German insider scandal can't carry it); a flagship is an
 INVESTIGATION of a named system, not an explainer of a known phenomenon (S6, all six loglines
@@ -23,7 +24,8 @@ because the Knaller is in its DNA).
   Build starts on the owner's plan sign-off — **site-side, nothing pending at this table.**
 - **`der-algorithmus-im-nebenzimmer`** (RealPage) — gated 29·1·1·0, Field 5/5, kept in
   `works/` for a possible later build with an added frame.
-- **Owner-endorsed future queue** (S7, "alle großartige Vorschläge"): uber-upfront-fares ·
+- **Owner-endorsed future queue** (S7, 2026-07-06, wording private — all endorsed as great
+  proposals to keep and schedule): uber-upfront-fares ·
   pef-pandemic-bond · pari-passu-argentina · cds-manufactured-default.
 - **Parked mid-size briefs:** rent-eats-first (works/), das-doppelte-gericht (works/, built &
   playable, comprehension + internationality holes documented).

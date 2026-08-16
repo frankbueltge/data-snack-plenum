@@ -9,9 +9,10 @@ against it (see PROTOCOL.md "The gate").*
 
 Session 6 came back with six flagship loglines — money creation, the birth lottery, tax
 havens, the wage gap, the billionaire's wealth clock, the stuck social elevator. Frank's
-verdict: *"alle eher schwach und nicht wirklich originell, progressiv oder investigativ … das
-weiß doch schon jeder und es ist kein Geheimnis."* He is right, and the reason is structural,
-not a bad-day fluke: **the table keeps pitching KNOWN PHENOMENA to explain, when a flagship
+verdict (2026-07-05, wording private): *all six weak — not original, not progressive, not
+investigative; everyone already knows this and none of it is a secret.* He is right, and the
+reason is structural, not a bad-day fluke: **the table keeps pitching KNOWN PHENOMENA to
+explain, when a flagship
 must be a SPECIFIC SYSTEM to investigate.** This standard exists so that stops happening at the
 source — so surface Dünnpfiff dies at the pitch, not after Frank has read six of them.
 
@@ -95,7 +96,7 @@ FIELD.md's own "instrument series" is exactly the caliber this standard demands 
 named, investigated, non-obvious, with victims. Each is a measurement/detection system that
 fails in a documented, counter-intuitive way. **These are not a mine to strip for data-snack
 (they are Frank's research, and several are AI/tech, not the cast's economic core) — they are a
-CALIBRATION SAMPLE: this is what "kein Geheimnis das jeder kennt" feels like.**
+CALIBRATION SAMPLE: this is what a finding that is *not* already common knowledge feels like.**
 
 - **AI text detectors** punish non-native English speakers (false-positive rates 30–61% above
   baseline) — with real expelled students, revoked visas, pending lawsuits (Rignol v. Yale;
