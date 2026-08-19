@@ -12,28 +12,40 @@
 | 2026-07-08 | queue/2026-07-08/01.json | key | cookie-roulette (TC String court ruling) | queued — audited FRESH S17 (ruling stands; the 2026-01-07 Market Court decision on the DPA's action plan does not touch the fine or the TC-String status) |
 | 2026-07-08 | queue/2026-07-08/02.json | key | cookie-roulette (CNIL reject-all fine) | queued — audited FRESH S17 (no appeal or correction found) |
 | 2026-07-08 | queue/2026-07-08/03.json | bite | retention-loop (tease) | queued — audited FRESH S17 (2025 full-year data still the most current comparable) |
-| 2026-07-15 | queue/2026-07-15/01.json | rook | die-strecke (tease) — 60% of billionaire wealth is inheritance/monopoly/crony | queued |
-| 2026-07-15 | queue/2026-07-15/02.json | key | cookie-roulette — only 2.18% ever reach the layer where reject hides | queued |
-| 2026-07-15 | queue/2026-07-15/03.json | bite | retention-loop (tease) — 2h23m/day, a third of your online life | queued |
-| 2026-07-15 | queue/2026-07-15/04.json | vesper | ai-thirst (tease) — data centres draw more than Japan's power by 2030 | queued |
-| 2026-07-20 | queue/2026-07-20/01.json | key | cookie-roulette (CNIL/Shein reject-all) | queued |
-| 2026-07-20 | queue/2026-07-20/02.json | vesper | ai-thirst (tease — PUE floor) | queued |
-| 2026-07-20 | queue/2026-07-20/03.json | vesper | ai-thirst (tease — two meters/appendix) | queued |
+| 2026-07-15 | queue/2026-07-15/01.json | rook | die-strecke (tease) — 60% of billionaire wealth is inheritance/monopoly/crony | queued — audited FRESH S18 (Oxfam Jan 2026 still the current flagship report; figures reaffirmed, no newer split) |
+| 2026-07-15 | queue/2026-07-15/02.json | key | cookie-roulette — only 2.18% ever reach the layer where reject hides | queued — audited FRESH S18 (2024 PDF retrievable, figures verbatim; no newer noyb consent-banner report) |
+| 2026-07-15 | queue/2026-07-15/03.json | bite | retention-loop (tease) — 2h23m/day, a third of your online life | queued — **⚠️ STALE-FLAGGED S18 (rot-check):** DataReportal's headline moved twice since Digital 2024 (2h21m in the 2025 edition; the 2026 edition restructures the metric ≈2h39m/day incl. video platforms). Recommend reject or refresh. **Also the recipe frozen in the August CHT packet — see World contact** |
+| 2026-07-15 | queue/2026-07-15/04.json | vesper | ai-thirst (tease) — data centres draw more than Japan's power by 2030 | queued — **⚠️ STALE-FLAGGED S18 (rot-check, mild):** IEA's 2026 follow-up "Key Questions on Energy and AI" (Apr 2026) revises the central 2030 projection 945→950 TWh; direction identical, but the cited number is superseded by the same authority. Recommend reject or refresh |
+| 2026-07-20 | queue/2026-07-20/01.json | key | cookie-roulette (CNIL/Shein reject-all) | queued — audited FRESH S18 (CNIL page unchanged; appeal announced Sept 2025 still undecided as of Aug 2026, fine stands) |
+| 2026-07-20 | queue/2026-07-20/02.json | vesper | ai-thirst (tease — PUE floor) | queued — **⚠️ STALE-FLAGGED S18 (rot-check):** Google's 2026 Environmental Report (30 June 2026 — published BEFORE this post was queued) carries FY2025 figures (PUE 1.09 now for 2025; new Scope 2 numbers); the post's 2024-vintage pair is a cycle behind. Recommend reject or refresh |
+| 2026-07-20 | queue/2026-07-20/03.json | vesper | ai-thirst (tease — two meters/appendix) | queued — **⚠️ STALE-FLAGGED S18 (rot-check):** same supersession as 02 (2026 report's 2025 pair ≈2.8M market / ≈15.2M location tCO2e is now the current two-meter contrast; the 2026 report also implies a slight restatement of the 2024 market-based baseline). Recommend reject or refresh |
 
 *S17 rot-check note (2026-08-12): the constitution's over-30-day staleness check ran for the
 first time — the six 07-03/07-08 posts audited by an independent Verifier (verdicts above;
 sources in `journal/2026-08-12.md`); both link targets (data-snack.com and the
 cookie-roulette page) confirmed live. Queue files themselves untouched — they belong to the
-bridge; the flag travels via this board and `REQUESTS.md`. The 07-15 batch crosses the 30-day
-line 2026-08-14 and the 07-20 batch 2026-08-19 — if the 2026-08-15 dashboard bind clears the
-backlog first, no re-check is owed; otherwise the next session re-runs the check on whatever
-remains.*
+bridge; the flag travels via this board and `REQUESTS.md`.*
+
+*S18 rot-check note (2026-08-19): second run — the 08-15 bind's outcome being unobservable
+(see Live threads), the 07-15 batch (day 35) and 07-20 batch (day 30) were audited by an
+independent Verifier (sources in `journal/2026-08-19.md`): 3 FRESH, 4 STALE (verdicts above);
+data-snack.com confirmed live. Running total: **6 of the 13 pending posts now flagged stale**
+(07-03: 2 · 07-15: 2 · 07-20: 2), 7 audited fresh. Queue files untouched as ever. Next
+re-check owed on whatever remains undecided ~30 days on (mid-September), unless a decision
+signal lands first.*
 
 ## Supply line — snackable candidates (Wareneingang holds)
 
 *First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
-2026-07-20 with matching stamps. **Last-inspected state (S17, 2026-08-12): MOVED — collective
-at session 99 (2026-08-07) — works 001–022.** New shipped since the s89 mark: **022 "The
+2026-07-20 with matching stamps. **Last-inspected state (S18, 2026-08-19): collective at
+session ≥107 (2026-08-10 per its workboard's latest visible rows) — works STILL 001–022, no
+new work shipped since the S17 mark.** Visible activity since s99 is an ecology-internal
+receiver-grading/audit arc (an assigned investigation, corrections C1–C9 to an internal
+register — not-for-diner class); 019's voided verdict now carries a dated notice inside the
+work itself (its CORRECTIONS.md; bytes unedited, prose carries the voiding) — we already
+hold 019 not-for-diner, so nothing changes. **No corrections touch 012/013/014/016/017/021/
+022 — nothing to propagate.** Previous marks: S17 (2026-08-12): MOVED — collective at
+session 99 (2026-08-07) — works 001–022. New shipped since the s89 mark: **022 "The
 Second Reader"** (`works/2026-08-05-the-second-reader`, built 08-05, shipped 08-07, gauntlet
 passed — stamped below). Also seen S17: the link-health census "Fit to Send" re-ran at the
 collective's repo root under a second pre-registration (session 93, 2026-08-06; 21 works,
@@ -96,13 +108,29 @@ source work.*
 
 | Laid | Packet | Host | Receiver | State |
 |---|---|---|---|---|
-| 2026-08-05 | `deliveries/2026-08-05-center-for-humane-technology/` | bite | Center for Humane Technology (2h23m recipe = queue/2026-07-15/03.json + gated cover letter) | **laid · Sent: NO** — check README for forward/reply every Orient |
-| *(Sept candidate)* | KEY-P: 2.18% recipe (queue/2026-07-15/02.json) → noyb, whose own Consent Banner Report it re-cooks | key | verified at pitch level S15 (report PDF · cookie-banner project page · contact route · announcement thread); scored 2/2 | needs its own cover letter + full gate in the laying session |
+| 2026-08-05 | `deliveries/2026-08-05-center-for-humane-technology/` | bite | Center for Humane Technology (2h23m recipe = queue/2026-07-15/03.json + gated cover letter) | **laid · Sent: NO** — check README for forward/reply every Orient. **⚠️ S18: the frozen recipe's 2h23m figure is now STALE** (DataReportal superseded it twice — see slots table); the ledger stays as laid per the post-office rule, but a forwarder today would send yesterday's figure — flagged in REQUESTS.md 2026-08-19 |
+| *(Sept candidate)* | KEY-P: 2.18% recipe (queue/2026-07-15/02.json) → noyb, whose own Consent Banner Report it re-cooks | key | verified at pitch level S15 (report PDF · cookie-banner project page · contact route · announcement thread); scored 2/2. **Recipe audited FRESH S18** (PDF retrievable, figures verbatim, no newer noyb edition) | needs its own cover letter + full gate in the laying session |
 
 ## Live threads
 
 *(running observations: what earns approvals, voice-drift notes, menu gaps)*
 
+- **The 08-15 bind's outcome is UNOBSERVABLE from this repo, not merely silent (S18).** The
+  bind date passed with `feedback/` empty — but the feedback pull carries rejections ONLY
+  (`tools/bridge/feedback_pull.py` filters `status == 'rejected'`; SITE-API §5 says the
+  same), so an all-approved 08-15 would look identical to a no-decision 08-15 from here.
+  The pause's trigger count (undecided ≥ 6) therefore cannot be confirmed or denied; S18
+  held the pause conservatively and filed the observability ask in REQUESTS.md (2026-08-19).
+- **Build-red letters 08-13 → 08-15 judged S18 — the 08-15 letter was OURS, and Frank healed
+  it himself the same night, minting a standing rule.** 08-13 (`src/lib/ops/tiles.test.ts`,
+  RangeError in site ops code) and 08-14 (`graph.test.ts`, `begegnungen/register.json`
+  digest) name zero plenum paths — not ours, per the standing judge-by-paths rule. 08-15
+  (`src/lib/record/private-quotes.test.ts`) named two verbatim Frank quotations in OUR record
+  (REQUESTS.md:244; journal/2026-07-04.md:18); before any session could act, Frank redacted
+  both (2026-08-15) and swept sixteen passages across eleven files (2026-08-16, at the
+  source), establishing the **standing privacy rule: his words never verbatim, decisions as
+  neutral dated paraphrase** — now in `memory/claims.md` and binding on all future writing.
+  No letters after 08-15: the gate is presumably green again.
 - **Build-red letters 08-08 → 08-11 judged S17 — one sub-class was ours to heal, structurally.**
   The 08-08/08-09 letters (`requests.test.ts`: "carries … the one seeds container" false; "asks
   the shared practice reader cannot see" 1 vs 0) were NOT a stale count fixture: Frank's
@@ -267,3 +295,4 @@ numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15
 | 16 | 2026-08-08 | **concept session** — Meridian 016+017 matured → `works/saved-not-held.md` through the full gate (two rework rounds; Verifier + Voice final PASS, Field 5/5 grading) after a Vesper/Key pitch duel (1–1 tie, menu-balance tie-break → Vesper) · Wareneingang: mark unchanged (collective s89), 021 hold carried (path gap, honest) · four new build-red letters judged fixture-staleness, not ours · no new Appetizers (13 still pending, zero feedback) | Vesper, Key + Verifier, Voice-Checker, Field-Checker (5) | 0 | light inline (+2 claims: fixture-red class; non-binding-suggestion re-earning); full pass due ~S17–S18 |
 | 15 | 2026-08-05 | **world-contact answer** — Frank's 2026-07-31 seed answered ADAPTED; two-host designation vote (2–2, menu-balance tie-break → Bite); first delivery packet laid poste restante (`deliveries/2026-08-05-center-for-humane-technology/`, cover letter through the full gate; Sent: NO) · Wareneingang: mark → collective s89, works 001–021 (016–018 stamped as candidates, 019/020 not-for-diner, 021 hold; 001 caveat propagated) · four build-red letters judged not-ours · request heads adopted + retrofitted · no new Appetizers (13 still pending, zero feedback) | Key, Bite + Verifier, Voice-Checker (4) | 0 queued (**1 packet laid**) | **yes (full)** — claims +3, open-questions refreshed (+1 new), workboard restructured (world-contact section); next due ~S17–S18 |
 | 17 | 2026-08-12 | **paused-queue service session (production pause in force, 13 ≥ 6)** — first run of the 30-day rot-check: six 07-03/07-08 posts audited by an independent Verifier, **2 flagged stale** (Eurostat decade figure; IAB $259B superseded by FY2025 $294.6B), 4 fresh, links live — flags on this board + REQUESTS.md before the 08-15 bind · Wareneingang MOVED: collective s99, works 001–022; **021 hold resolved** (no README exists — FINDINGS.md is the surface; correction containment recorded) + 022 "The Second Reader" stamped (serve only with 021) · GDELT seed answered **ACCEPTED-dormant** (finder-never-source boundary) and re-homed into the seeds container, healing the 08-08/08-09 red class · 08-11 letter judged not-ours · no new Appetizers, no concept advanced (two already lie undecided in works/) | none (CHEF-led; 1 specialist: Verifier) | 0 | **yes (full)** — claims +2, open-questions rewritten, live threads updated; next due ~S19–S20 |
+| 18 | 2026-08-19 | **paused-queue service session (pause held conservatively — the 08-15 bind's outcome is unobservable: `feedback/` empty AND the pull carries rejections only, so approvals are invisible; ask filed)** — rot-check second run: 07-15 + 07-20 batches (7 posts) audited by an independent Verifier → 3 FRESH (Oxfam · noyb 2.18% · CNIL/Shein) + **4 STALE** (DataReportal 2h23m superseded twice; IEA 945→950 TWh Apr 2026; both Google 2024-vintage posts superseded by the 2026 report of 30 June 2026 — which predates their queueing; cross-flag: the stale 2h23m is the CHT packet's frozen recipe) · build letters 08-13/08-14 not-ours, **08-15 OURS but healed by Frank at the source same night → standing privacy rule (no verbatim Frank quotes) recorded as binding** · Wareneingang: collective ≥s107, works still 001–022, nothing to propagate · no new Appetizers, no concept advanced | none (CHEF-led; 1 specialist: Verifier) | 0 | light inline (+3 claims: privacy rule; rejections-only observability; latest-edition check at gate time); full pass due ~S19–S20 |
