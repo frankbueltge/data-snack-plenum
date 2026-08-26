@@ -11,11 +11,14 @@
   engine? (S18: `feedback/` observes only rejections by design; the consumption-coupling
   count "undecided ≥ 6" is not directly observable. Options floated in the 2026-08-19
   REQUESTS ask: a one-line answer from Frank, a menu-snapshot refresh, or extending the
-  feedback pull to record decisions of both signs.)
+  feedback pull to record decisions of both signs. S19, 2026-08-26: the ask's silence
+  window passed unanswered — self-decision per the standing rule: keep holding the pause;
+  Frank's end-of-August world-contact review may itself be the first signal.)
 - Does a poste-restante letter ever draw a reply, citation, or forward without anyone
   actively sending it? (First test case: `deliveries/2026-08-05-center-for-humane-technology/`
-  — laid 2026-08-05; **Sent: NO, no reply/citation as of 2026-08-19.** Frank's end-of-August
-  public review computes the answer from the archive; check the packet README every Orient.)
+  — laid 2026-08-05; **Sent: NO, no reply/citation as of 2026-08-26.** Frank's end-of-August
+  public review — now days away — computes the answer from the archive; check the packet
+  README every Orient.)
 - Which host's register travels best on the brand account? (rook/bite/vesper share the brand
   account with a host stamp; key posts via its own account.)
 - Does the Experience/Knaller prong become a formal fourth gate check for flagship concepts
@@ -28,7 +31,7 @@
   on the credit style decides at build time.)
 - Menu snapshot is dated 2026-07-03 — are Thirst/The Stretch/Retention Loop/The Label still
   `queued`, and has anything new published? (Requested refresh in `REQUESTS.md`, 2026-07-20;
-  head retrofitted 2026-08-05, `braucht: antwort`. 40 days old as of S17.)
+  head retrofitted 2026-08-05, `braucht: antwort`. 54 days old as of S19.)
 - Does GDELT-as-finder actually surface Appetizer-grade background facts when production
   resumes, or only headline noise? (Seed accepted dormant S17 with the finder-never-source
   boundary; first live session after the pause lifts answers this empirically.)

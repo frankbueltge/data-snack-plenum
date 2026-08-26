@@ -37,9 +37,13 @@ signal lands first.*
 ## Supply line — snackable candidates (Wareneingang holds)
 
 *First inspection 2026-07-15 (stranded session, recovered S13); independently repeated
-2026-07-20 with matching stamps. **Last-inspected state (S18, 2026-08-19): collective at
-session ≥107 (2026-08-10 per its workboard's latest visible rows) — works STILL 001–022, no
-new work shipped since the S17 mark.** Visible activity since s99 is an ecology-internal
+2026-07-20 with matching stamps. **Last-inspected state (S19, 2026-08-26): collective at
+session ≥128 (2026-08-20 per its workboard's bookkeeping notes; its own consolidation ran
+s127 on 2026-08-19) — works STILL 001–022, no new work shipped since the S17 mark; visible
+activity is ecology-internal (workboard archive rotations; one work parked since its s97 on
+a missing external channel — not-for-diner class); shipped rows 012/013/014 carry only their
+long-known revision history; nothing to propagate.** Previous mark: S18 (2026-08-19),
+collective ≥s107, works 001–022. Visible activity since s99 is an ecology-internal
 receiver-grading/audit arc (an assigned investigation, corrections C1–C9 to an internal
 register — not-for-diner class); 019's voided verdict now carries a dated notice inside the
 work itself (its CORRECTIONS.md; bytes unedited, prose carries the voiding) — we already
@@ -108,12 +112,14 @@ source work.*
 
 | Laid | Packet | Host | Receiver | State |
 |---|---|---|---|---|
-| 2026-08-05 | `deliveries/2026-08-05-center-for-humane-technology/` | bite | Center for Humane Technology (2h23m recipe = queue/2026-07-15/03.json + gated cover letter) | **laid · Sent: NO** — check README for forward/reply every Orient. **⚠️ S18: the frozen recipe's 2h23m figure is now STALE** (DataReportal superseded it twice — see slots table); the ledger stays as laid per the post-office rule, but a forwarder today would send yesterday's figure — flagged in REQUESTS.md 2026-08-19 |
+| 2026-08-05 | `deliveries/2026-08-05-center-for-humane-technology/` | bite | Center for Humane Technology (2h23m recipe = queue/2026-07-15/03.json + gated cover letter) | **laid · Sent: NO** — check README for forward/reply every Orient (S19, 2026-08-26: no reply/citation/forward; Frank's public end-of-August review is imminent — the ledger as laid is what it reads). **⚠️ S18: the frozen recipe's 2h23m figure is now STALE** (DataReportal superseded it twice — see slots table); the ledger stays as laid per the post-office rule, but a forwarder today would send yesterday's figure — flagged in REQUESTS.md 2026-08-19 |
 | *(Sept candidate)* | KEY-P: 2.18% recipe (queue/2026-07-15/02.json) → noyb, whose own Consent Banner Report it re-cooks | key | verified at pitch level S15 (report PDF · cookie-banner project page · contact route · announcement thread); scored 2/2. **Recipe audited FRESH S18** (PDF retrievable, figures verbatim, no newer noyb edition) | needs its own cover letter + full gate in the laying session |
 
 ## Live threads
 
-*(running observations: what earns approvals, voice-drift notes, menu gaps)*
+*(running observations: what earns approvals, voice-drift notes, menu gaps. Pruned at the
+S19 consolidation, 2026-08-26: craft lessons fully absorbed into `memory/claims.md` and the
+four per-arc build-red threads were condensed — journals remain ground truth.)*
 
 - **The 08-15 bind's outcome is UNOBSERVABLE from this repo, not merely silent (S18).** The
   bind date passed with `feedback/` empty — but the feedback pull carries rejections ONLY
@@ -121,43 +127,20 @@ source work.*
   same), so an all-approved 08-15 would look identical to a no-decision 08-15 from here.
   The pause's trigger count (undecided ≥ 6) therefore cannot be confirmed or denied; S18
   held the pause conservatively and filed the observability ask in REQUESTS.md (2026-08-19).
-- **Build-red letters 08-13 → 08-15 judged S18 — the 08-15 letter was OURS, and Frank healed
-  it himself the same night, minting a standing rule.** 08-13 (`src/lib/ops/tiles.test.ts`,
-  RangeError in site ops code) and 08-14 (`graph.test.ts`, `begegnungen/register.json`
-  digest) name zero plenum paths — not ours, per the standing judge-by-paths rule. 08-15
-  (`src/lib/record/private-quotes.test.ts`) named two verbatim Frank quotations in OUR record
-  (REQUESTS.md:244; journal/2026-07-04.md:18); before any session could act, Frank redacted
-  both (2026-08-15) and swept sixteen passages across eleven files (2026-08-16, at the
-  source), establishing the **standing privacy rule: his words never verbatim, decisions as
-  neutral dated paraphrase** — now in `memory/claims.md` and binding on all future writing.
-  No letters after 08-15: the gate is presumably green again.
-- **Build-red letters 08-08 → 08-11 judged S17 — one sub-class was ours to heal, structurally.**
-  The 08-08/08-09 letters (`requests.test.ts`: "carries … the one seeds container" false; "asks
-  the shared practice reader cannot see" 1 vs 0) were NOT a stale count fixture: Frank's
-  2026-08-09 GDELT seed was laid at the end of `REQUESTS.md` under a standalone heading, which
-  the site's shared reader does not parse — his own seed was invisible to every practice's
-  reader. S17 moved it verbatim into the `## Seeds from Frank` container (location + container
-  formatting only, dated moved-note in place) and answered it. Distinct from the count-fixture
-  class: a red that says "an ask exists the reader cannot see" is about the record's
-  STRUCTURE, and the channel file's structure is ours to keep parseable. The 08-11 letter
-  (`graph.test.ts`, `begegnungen/register.json` digest) names zero plenum paths — not ours.
-- **Build-red letters since S15 are fixture-staleness reds, all judged not-ours-to-fix (S16).**
-  The 08-05→08-08 letters name the site's `src/lib/plenum/` tests — tests that READ our record
-  and pin a snapshot of it (15 sittings, 3 open asks, 2 team notes, as of 2026-08-02). Our S15
-  minutes and Frank's own 2026-08-07 team note legitimately grew the record past the snapshot.
-  The record is correct; the fixtures are site-side. Distinguish from the S15 class (failures
-  in other practices' files): this class DOES read our data — but a count-mismatch red where
-  the "received" number is the growth of a record we're constitutionally required to grow is
-  confirmation the record moved, not a defect. Note: every session that writes minutes (and
-  every new REQUESTS entry, ours or Frank's) will re-redden such tests until the fixtures
-  derive counts instead of pinning them.
-- **Gate lesson (S16): a non-binding specialist's upgrade suggestion must be re-earned under
-  the binding gates, not pasted in.** The Field-Checker's part-5 sharpening, adopted verbatim
-  as an Idea-section line, drew a double FAIL — Voice (build-note jargon in audience prose)
-  and Verifier (wrong Protocol provision: custody documentation is *genuinely* satisfied by a
-  hollow capture; the falsely-satisfied bar is the full-page-capture minimum, item (c)/para
-  155 — never para 167). Both specialists independently converged on the same line for
-  different reasons; the fix was subtraction + a corrected build-note bullet.
+  **S19 (2026-08-26): still no signal** — the ask's silence window passed, so per the
+  standing rule the self-decision is recorded: keep holding until a signal lands
+  (rejection in `feedback/`, a menu refresh, or a line from Frank; his end-of-August
+  world-contact review may itself be one — read for it at next Orient).
+- **Build-red letters: standing disposition (consolidated S19; per-letter judgements stay in
+  the journals).** Judge by the FAILING PATHS (claim, S15): a letter naming only site or
+  collective paths is not ours (07-22→08-04 judged S15 · 08-11/08-13/08-14 S17–S18 ·
+  08-23's private-quotes hit on the site's own `docs/decision-log.md` S19); a
+  snapshot-fixture red on our record's legitimate growth confirms the record moved, not
+  broke (S16 class — every minutes/REQUESTS growth re-reds those tests until fixtures
+  derive counts); a red naming OUR paths is ours and gets healed structurally (08-08/09:
+  Frank's seed re-homed into the parseable seeds container, S17; 08-15: verbatim Frank
+  quotes → healed by Frank at the source, minting the **standing privacy rule — his words
+  never verbatim, decisions as neutral dated paraphrase**, binding, `memory/claims.md`).
 
 - **The regime changed (S15, 2026-08-05): world contact is the measure now.** Frank's
   2026-07-31 seed — one piece per month to a named receiver outside the ecology, external use
@@ -165,10 +148,6 @@ source work.*
   August — answered **ADAPTED** (addressing is ours; the click/forwarding is human; poste
   restante per his 2026-08-01 decision). First packet laid (table above). The request-head
   convention (2026-08-01) is in force — four lines before every entry addressed to Frank.
-- **Build-red letters 07-22 → 08-04 all judged not-ours (S15)** — failing paths are the site's
-  field/crossings code and the collective's chronicle; zero plenum files named; the
-  collective's own workboard claims two of the reds. Pattern claim anchored in memory/claims.md
-  (judge by paths; a letter naming our queue/ journal/ works/ memory/ paths is ours).
 - **Voice advisory carried forward (S15):** a Bite LETTER's citation paragraph read
   voice-neutral (PASS-with-notes) — next Bite letter carries one Bite beat in the source line
   without touching factual precision. Letters are a new form; the sheet's platform contract
@@ -192,16 +171,9 @@ source work.*
   · 07-15 2.18% second layer · 07-20 Shein reject-all — vanityfair and Shein are both
   CNIL reject-all fines, the closest pair). Flagged in REQUESTS.md; picking is Frank's call.
 - **Cadence restored (S10):** first Appetizers since S1 — 4 queued (rook/die-strecke, key/cookie-roulette, bite/retention-loop, vesper/ai-thirst), one per host, each teasing a DIFFERENT snack. The menu-gap (everything converging on cookie-roulette) was deliberately answered by diversification. Vesper convened (rare-appropriate: AI resource-draw endgame).
-- **Gate caught a new failure CLASS (S10):** not wrong numbers but *mischaracterised metrics* — Bite's "average scroll session" (2h23m is a daily aggregate, not one sitting) and Vesper's "the machines behind every answer" (945 TWh is TOTAL data-centre power, not AI-only). Both correct numbers, wrong framing. Distinct from the old "wrong-number/snippet" vector; the Verifier now checks *what a figure means*, not just its value.
-- **Voice-Checker caught a body/teaser coherence gap (S10):** Vesper's power stat vs the water-signalling "Thirst" dish name — advisory, not a voice failure. Recorded: match the finding's substance to the snack's promise.
 
 - **The plenum's name is "Line Check"** (decided Session 1; Rook and Key proposed it
   independently, Bite scored it 2). Future sessions may commit under this identity.
-- Voice-drift watch, Rook: first ROOK-B draft drifted into Key's consent-click territory —
-  caught at the gate, fixed in one rework. One data point, not yet a dossier.
-- Fabrication vector identified: quoting from search-result snippets without full-page
-  extraction produced a wrong number ($127B vs $117+B) in Key's concept brief. Rule of thumb
-  adopted: extract the page before quoting it.
 - Bite went 0-for-2 on Appetizer slots in S1 but landed the flagship concept brief in S3
   (one-more-scroll-der-sog). Still re-pitchable as Appetizers: Snapchat streaks (natural fit
   for THIS snack once it publishes); Pew constant-online → needs a matching snack.
@@ -210,29 +182,6 @@ source work.*
 - Cross-repo flag for Frank (found by S3 Verifier): the site repo's
   `src/games/snacks/retention-loop/data/facts.ts` attributes the PNAS unlock study to
   "Heitmayer et al." — correct is **Winbush et al. 2025** (PNAS, DOI 10.1073/pnas.2427311122).
-- Voice-craft claim from the S3 gate: more than one verbatim signature-line reuse per document
-  reads as quoting the character, not writing her — earn new lines, keep the catalog for
-  in-experience dialogue.
-- **Independent convergence, second instance (S4):** Rook and Bite, unprompted, both kept
-  Mammon off-stage, refused a win-state, and placed the minigame as climax-of-the-read —
-  the table's strongest decision signal keeps repeating.
-- Statistics pages mutate under you (S4 Verifier): Eurostat rebased its indices to 2025 and
-  dropped since-2010 comparisons; a figure verified once is not verified forever — pin the
-  release page + date, prefer frozen news releases over living Statistics-Explained pages.
-- **Process rule from the S4→S5 arc:** the owner's pulse-check sits BETWEEN logline and
-  development — a fully gated brief can still die at the owner gate (rent, S4), and the
-  table's own scoring does not predict the owner's blockbuster taste (S5 R1: the 4/4 logline
-  was parked as side-dish). Loglines first, development only on the owner's pick.
-- Genre frame beats mechanic (S5 R2 lesson): the owner's pick lit up when concepts became
-  EPISODES with stakes (kitchen caper) instead of mechanics with insights attached.
-- **The Field Standard (anchored 2026-07-05, post-S6) — the deepest flagship filter.** After the
-  owner rejected all six S6 loglines (2026-07-05, wording private — everyone already knows it and
-  it is no secret), `FIELD.md`
-  (Frank's field-map) was anchored as `FIELD-STANDARD.md` + a Field-Checker gate. A flagship is
-  an INVESTIGATION of a specific named system (Lavender, a named ruling/tool/leak), not an
-  EXPLAINER of a known phenomenon (money creation, inequality). Litmus at the pitch: "I didn't
-  know that" vs. "everyone knows that." Known-fact concepts → Appetizer/Quick-Snack/Atlas, not
-  flagship. This sits ABOVE genre-frame and internationality in the filter order.
 - **Vesper's first Appetizers (S10):** the nine-session scarcity broke because the supply line
   delivered exactly Vesper's material (AI energy accounting → ai-thirst). Voice-gate ceiling
   note on record: ONE technical qualifier is the most a Vesper line absorbs — don't stack two.
@@ -241,31 +190,10 @@ source work.*
   strongest once Retention Loop publishes) · B2 EU/Meta DSA autoplay finding (fix the tease
   title to "The Label" per menu) · K2 CNIL 2025 tally (fix attribution: €486.8M is the total
   across all 83 sanctions, 21 of which were tracker cases).
-- **Feedback loop dry since 2026-07-04 — but now with a legal end date:** the dashboard bind
-  (Frank, 2026-08-08) makes all 13 pending posts fall due — approved, rejected, or held with a
-  dated reason — on **2026-08-15**. The S17 staleness audit pre-checked the six over-30-day
-  posts (07-03 and 07-08 batches) so the decision lands on current facts. Menu snapshot still
-  2026-07-03; ask filed in REQUESTS.md (2026-07-20). Not a blocker per the standing rule.
-- **Verifier's #1 catch on a well-researched Appetizer is a framing overstatement, not a fake number (S9).**
-  Two of three winners drew PASS-WITH-CORRECTION, both on the VERB/SCOPE around a real figure: "fine upheld"
-  (court actually annulled-on-procedure and re-imposed it), "joint-controlled pipeline" (confirmed for the
-  consent layer only, rejected for OpenRTB), and entity precision ("Les Publications Condé Nast" ≠ the global
-  parent). Pressure-test the verb and scope at the table; a ruling almost always has a split or a procedural twist.
-- **Bite register FAIL is rhythm, not vocabulary (S9).** BITE-2 v1 had all the signature words but opened with a
-  flat date-stat dump in Key's cadence → Voice FAIL "could be any host's line." v2 kept every number, broke them
-  into fast fragments behind a memetic hook → PASS. Fix Bite altitude by fragmenting and leading with the hook.
-- **The lean two-host table works (S9).** Menu balance (least-served host AND snack), not headcount, picked the
-  pair: Key (owns the only published snack) + Bite (0-for-2, teasable queue); Rook/Vesper rested. 4 sub-agents
-  total. The two-voice cross-vote produced three clean 2/2 winners, no tie-break needed; Bite landed its first slot.
-- **Still no real feedback signal (S9).** `feedback/` holds only two E2E-test cleanups; two batches (07-03, 07-08)
-  await Frank's first genuine approval/rejection — the strongest steering signal, still pending.
-- **Field Standard, first hunt under it (S7): it works.** Round 4 hunted NAMED systems paired with
-  the enforcement action / rulebook change against each, and returned 5 loglines that all clear the
-  five-part test (RealPage rent cartel · Uber Upfront Fares · World Bank PEF pandemic bond · pari
-  passu / NML v. Argentina · CDS manufactured defaults). The reusable move: let the regulator's or
-  court's own document (DOJ complaint, ISDA supplement, competition-bureau probe, World Bank
-  trustee payout record) carry all three prongs at once — it names the system, proves the secret,
-  and names the victim. That is exactly what the S6 phenomena could never do.
+- **Feedback loop dry since 2026-07-04.** No genuine approval/rejection has ever landed in
+  `feedback/`; the 08-15 bind's outcome is unobservable (first thread above). Menu snapshot
+  still 2026-07-03; asks filed in REQUESTS.md (2026-07-20 · 2026-08-19). Not a blocker per
+  the standing rule.
 
 ## Session bookkeeping
 
@@ -296,3 +224,4 @@ numbers: "(S9)" threads = 2026-07-08 or 2026-07-10; "(S10)" threads = 2026-07-15
 | 15 | 2026-08-05 | **world-contact answer** — Frank's 2026-07-31 seed answered ADAPTED; two-host designation vote (2–2, menu-balance tie-break → Bite); first delivery packet laid poste restante (`deliveries/2026-08-05-center-for-humane-technology/`, cover letter through the full gate; Sent: NO) · Wareneingang: mark → collective s89, works 001–021 (016–018 stamped as candidates, 019/020 not-for-diner, 021 hold; 001 caveat propagated) · four build-red letters judged not-ours · request heads adopted + retrofitted · no new Appetizers (13 still pending, zero feedback) | Key, Bite + Verifier, Voice-Checker (4) | 0 queued (**1 packet laid**) | **yes (full)** — claims +3, open-questions refreshed (+1 new), workboard restructured (world-contact section); next due ~S17–S18 |
 | 17 | 2026-08-12 | **paused-queue service session (production pause in force, 13 ≥ 6)** — first run of the 30-day rot-check: six 07-03/07-08 posts audited by an independent Verifier, **2 flagged stale** (Eurostat decade figure; IAB $259B superseded by FY2025 $294.6B), 4 fresh, links live — flags on this board + REQUESTS.md before the 08-15 bind · Wareneingang MOVED: collective s99, works 001–022; **021 hold resolved** (no README exists — FINDINGS.md is the surface; correction containment recorded) + 022 "The Second Reader" stamped (serve only with 021) · GDELT seed answered **ACCEPTED-dormant** (finder-never-source boundary) and re-homed into the seeds container, healing the 08-08/08-09 red class · 08-11 letter judged not-ours · no new Appetizers, no concept advanced (two already lie undecided in works/) | none (CHEF-led; 1 specialist: Verifier) | 0 | **yes (full)** — claims +2, open-questions rewritten, live threads updated; next due ~S19–S20 |
 | 18 | 2026-08-19 | **paused-queue service session (pause held conservatively — the 08-15 bind's outcome is unobservable: `feedback/` empty AND the pull carries rejections only, so approvals are invisible; ask filed)** — rot-check second run: 07-15 + 07-20 batches (7 posts) audited by an independent Verifier → 3 FRESH (Oxfam · noyb 2.18% · CNIL/Shein) + **4 STALE** (DataReportal 2h23m superseded twice; IEA 945→950 TWh Apr 2026; both Google 2024-vintage posts superseded by the 2026 report of 30 June 2026 — which predates their queueing; cross-flag: the stale 2h23m is the CHT packet's frozen recipe) · build letters 08-13/08-14 not-ours, **08-15 OURS but healed by Frank at the source same night → standing privacy rule (no verbatim Frank quotes) recorded as binding** · Wareneingang: collective ≥s107, works still 001–022, nothing to propagate · no new Appetizers, no concept advanced | none (CHEF-led; 1 specialist: Verifier) | 0 | light inline (+3 claims: privacy rule; rejections-only observability; latest-edition check at gate time); full pass due ~S19–S20 |
+| 19 | 2026-08-26 | **paused-queue service session (pause held — observability ask unanswered; per the standing rule the self-decision is: keep holding)** — build letter 08-23 judged not-ours (private-quotes guard red on the site's own `docs/decision-log.md`; zero plenum paths) · Wareneingang: collective ≥s128, works still 001–022, nothing to propagate · CHT ledger checked (Sent: NO, no reply as of 2026-08-26; end-of-August review imminent) · **full consolidation ran** · no new Appetizers, no concept advanced; September noyb packet designated for the next session | none (CHEF-led; 0 role sub-agents — no gate owed, no rot-check due) | 0 | **yes (full)** — live threads pruned (claims-absorbed craft bullets + build-red arcs condensed), open-questions refreshed, claims evidence note (judge-by-paths extends to the privacy-guard class); next due ~S21–S22 |
