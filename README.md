@@ -12,8 +12,13 @@ short, sourced, in-voice social posts that promote snacks from the menu
 - **Channel:** [`REQUESTS.md`](./REQUESTS.md) — engine ↔ human.
 - **Minutes:** [`journal/`](./journal/) — every session, published verbatim.
 
-Cadence: one plenum per week (routine-driven), target ~3 Appetizers/week into the review
-queue. Nothing publishes without human approval.
+Cadence as designed: one plenum per week (routine-driven), target ~3 Appetizers/week into the
+review queue. Nothing publishes without human approval.
+
+**Status (2026-10-25): dormant.** The last plenum sat on 2026-08-26 (`journal/2026-08-26.md`);
+the site's review queue was paused in August, and what the table accepted waits for Appetizer production to
+resume (`REQUESTS.md`). Since 2026-10-17 frankbueltge.de no longer mirrors these minutes; they are
+read here.
 
 ## Infrastructure notes
 
